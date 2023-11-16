@@ -1,0 +1,975 @@
+Plate	Well	Index1	Spacer1	Index2	Spacer2	LabID	SampleID
+BROAD	A01	accgctaatagc		cgctgagttagc	AT	tube1	sample1
+BROAD	B01	ccgcttctagtt	CT	cgctgagttagc	AT	tube2	sample2
+BROAD	C01	ggtgattacaca	AGC	cgctgagttagc	AT	tube3	sample3
+BROAD	D01	atgtcgtcctgg	TCAT	cgctgagttagc	AT	tube4	sample4
+BROAD	E01	aacacatcagcg	ACACAGATCA	cgctgagttagc	AT	tube5	sample5
+BROAD	F01	gtatagacgagc	TGACACTGATA	cgctgagttagc	AT	tube6	sample6
+BROAD	G01	gagaccggttat		cgctgagttagc	AT	tube7	sample7
+BROAD	H01	cgtctaatccat	CT	cgctgagttagc	AT	tube8	sample8
+BROAD	A02	accgctaatagc		gatctgtcgcta	AT	tube9	sample9
+BROAD	B02	ccgcttctagtt	CT	gatctgtcgcta	AT	tube10	sample10
+BROAD	C02	ggtgattacaca	AGC	gatctgtcgcta	AT	tube11	sample11
+BROAD	D02	atgtcgtcctgg	TCAT	gatctgtcgcta	AT	tube12	sample12
+BROAD	E02	aacacatcagcg	ACACAGATCA	gatctgtcgcta	AT	tube13	sample13
+BROAD	F02	gtatagacgagc	TGACACTGATA	gatctgtcgcta	AT	tube14	sample14
+BROAD	G02	gagaccggttat		gatctgtcgcta	AT	tube15	sample15
+BROAD	H02	cgtctaatccat	CT	gatctgtcgcta	AT	tube16	sample16
+BROAD	A03	accgctaatagc		caggtacaaccg	ACT	tube17	sample17
+BROAD	B03	ccgcttctagtt	CT	caggtacaaccg	ACT	tube18	sample18
+BROAD	C03	ggtgattacaca	AGC	caggtacaaccg	ACT	tube19	sample19
+BROAD	D03	atgtcgtcctgg	TCAT	caggtacaaccg	ACT	tube20	sample20
+BROAD	E03	aacacatcagcg	ACACAGATCA	caggtacaaccg	ACT	tube21	sample21
+BROAD	F03	gtatagacgagc	TGACACTGATA	caggtacaaccg	ACT	tube22	sample22
+BROAD	G03	gagaccggttat		caggtacaaccg	ACT	tube23	sample23
+BROAD	H03	cgtctaatccat	CT	caggtacaaccg	ACT	tube24	sample24
+BROAD	A04	accgctaatagc		tagaacaacgct	ACT	tube25	sample25
+BROAD	B04	ccgcttctagtt	CT	tagaacaacgct	ACT	tube26	sample26
+BROAD	C04	ggtgattacaca	AGC	tagaacaacgct	ACT	tube27	sample27
+BROAD	D04	atgtcgtcctgg	TCAT	tagaacaacgct	ACT	tube28	sample28
+BROAD	E04	aacacatcagcg	ACACAGATCA	tagaacaacgct	ACT	tube29	sample29
+BROAD	F04	gtatagacgagc	TGACACTGATA	tagaacaacgct	ACT	tube30	sample30
+BROAD	G04	gagaccggttat		tagaacaacgct	ACT	tube31	sample31
+BROAD	H04	cgtctaatccat	CT	tagaacaacgct	ACT	tube32	sample32
+BROAD	A05	accgctaatagc		aggactcacgtg	AGCAG	tube33	sample33
+BROAD	B05	ccgcttctagtt	CT	aggactcacgtg	AGCAG	tube34	sample34
+BROAD	C05	ggtgattacaca	AGC	aggactcacgtg	AGCAG	tube35	sample35
+BROAD	D05	atgtcgtcctgg	TCAT	aggactcacgtg	AGCAG	tube36	sample36
+BROAD	E05	aacacatcagcg	ACACAGATCA	aggactcacgtg	AGCAG	tube37	sample37
+BROAD	F05	gtatagacgagc	TGACACTGATA	aggactcacgtg	AGCAG	tube38	sample38
+BROAD	G05	gagaccggttat		aggactcacgtg	AGCAG	tube39	sample39
+BROAD	H05	cgtctaatccat	CT	aggactcacgtg	AGCAG	tube40	sample40
+BROAD	A06	accgctaatagc		tgcgattcttca	AGCAGT	tube41	sample41
+BROAD	B06	ccgcttctagtt	CT	tgcgattcttca	AGCAGT	tube42	sample42
+BROAD	C06	ggtgattacaca	AGC	tgcgattcttca	AGCAGT	tube43	sample43
+BROAD	D06	atgtcgtcctgg	TCAT	tgcgattcttca	AGCAGT	tube44	sample44
+BROAD	E06	aacacatcagcg	ACACAGATCA	tgcgattcttca	AGCAGT	tube45	sample45
+BROAD	F06	gtatagacgagc	TGACACTGATA	tgcgattcttca	AGCAGT	tube46	sample46
+BROAD	G06	gagaccggttat		tgcgattcttca	AGCAGT	tube47	sample47
+BROAD	H06	cgtctaatccat	CT	tgcgattcttca	AGCAGT	tube48	sample48
+BROAD	A07	accgctaatagc		cgtaccggagta	GAGAT	tube49	sample49
+BROAD	B07	ccgcttctagtt	CT	cgtaccggagta	GAGAT	tube50	sample50
+BROAD	C07	ggtgattacaca	AGC	cgtaccggagta	GAGAT	tube51	sample51
+BROAD	D07	atgtcgtcctgg	TCAT	cgtaccggagta	GAGAT	tube52	sample52
+BROAD	E07	aacacatcagcg	ACACAGATCA	cgtaccggagta	GAGAT	tube53	sample53
+BROAD	F07	gtatagacgagc	TGACACTGATA	cgtaccggagta	GAGAT	tube54	sample54
+BROAD	G07	gagaccggttat		cgtaccggagta	GAGAT	tube55	sample55
+BROAD	H07	cgtctaatccat	CT	cgtaccggagta	GAGAT	tube56	sample56
+BROAD	A08	accgctaatagc		ctcattgccatt	GAGAT	tube57	sample57
+BROAD	B08	ccgcttctagtt	CT	ctcattgccatt	GAGAT	tube58	sample58
+BROAD	C08	ggtgattacaca	AGC	ctcattgccatt	GAGAT	tube59	sample59
+BROAD	D08	atgtcgtcctgg	TCAT	ctcattgccatt	GAGAT	tube60	sample60
+BROAD	E08	aacacatcagcg	ACACAGATCA	ctcattgccatt	GAGAT	tube61	sample61
+BROAD	F08	gtatagacgagc	TGACACTGATA	ctcattgccatt	GAGAT	tube62	sample62
+BROAD	G08	gagaccggttat		ctcattgccatt	GAGAT	tube63	sample63
+BROAD	H08	cgtctaatccat	CT	ctcattgccatt	GAGAT	tube64	sample64
+BROAD	A09	accgctaatagc		ataagccagatc	CGAGATA	tube65	sample65
+BROAD	B09	ccgcttctagtt	CT	ataagccagatc	CGAGATA	tube66	sample66
+BROAD	C09	ggtgattacaca	AGC	ataagccagatc	CGAGATA	tube67	sample67
+BROAD	D09	atgtcgtcctgg	TCAT	ataagccagatc	CGAGATA	tube68	sample68
+BROAD	E09	aacacatcagcg	ACACAGATCA	ataagccagatc	CGAGATA	tube69	sample69
+BROAD	F09	gtatagacgagc	TGACACTGATA	ataagccagatc	CGAGATA	tube70	sample70
+BROAD	G09	gagaccggttat		ataagccagatc	CGAGATA	tube71	sample71
+BROAD	H09	cgtctaatccat	CT	ataagccagatc	CGAGATA	tube72	sample72
+BROAD	A10	accgctaatagc		attggaacgtac	CGAGATA	tube73	sample73
+BROAD	B10	ccgcttctagtt	CT	attggaacgtac	CGAGATA	tube74	sample74
+BROAD	C10	ggtgattacaca	AGC	attggaacgtac	CGAGATA	tube75	sample75
+BROAD	D10	atgtcgtcctgg	TCAT	attggaacgtac	CGAGATA	tube76	sample76
+BROAD	E10	aacacatcagcg	ACACAGATCA	attggaacgtac	CGAGATA	tube77	sample77
+BROAD	F10	gtatagacgagc	TGACACTGATA	attggaacgtac	CGAGATA	tube78	sample78
+BROAD	G10	gagaccggttat		attggaacgtac	CGAGATA	tube79	sample79
+BROAD	H10	cgtctaatccat	CT	attggaacgtac	CGAGATA	tube80	sample80
+BROAD	A11	accgctaatagc		gtcctcctatgc	TGCTATAT	tube81	sample81
+BROAD	B11	ccgcttctagtt	CT	gtcctcctatgc	TGCTATAT	tube82	sample82
+BROAD	C11	ggtgattacaca	AGC	gtcctcctatgc	TGCTATAT	tube83	sample83
+BROAD	D11	atgtcgtcctgg	TCAT	gtcctcctatgc	TGCTATAT	tube84	sample84
+BROAD	E11	aacacatcagcg	ACACAGATCA	gtcctcctatgc	TGCTATAT	tube85	sample85
+BROAD	F11	gtatagacgagc	TGACACTGATA	gtcctcctatgc	TGCTATAT	tube86	sample86
+BROAD	G11	gagaccggttat		gtcctcctatgc	TGCTATAT	tube87	sample87
+BROAD	H11	cgtctaatccat	CT	gtcctcctatgc	TGCTATAT	tube88	sample88
+BROAD	A12	accgctaatagc		acattgtggaca	TGCTATAT	tube89	sample89
+BROAD	B12	ccgcttctagtt	CT	acattgtggaca	TGCTATAT	tube90	sample90
+BROAD	C12	ggtgattacaca	AGC	acattgtggaca	TGCTATAT	tube91	sample91
+BROAD	D12	atgtcgtcctgg	TCAT	acattgtggaca	TGCTATAT	tube92	sample92
+BROAD	E12	aacacatcagcg	ACACAGATCA	acattgtggaca	TGCTATAT	tube93	sample93
+BROAD	F12	gtatagacgagc	TGACACTGATA	acattgtggaca	TGCTATAT	tube94	sample94
+BROAD	G12	gagaccggttat		acattgtggaca	TGCTATAT	tube95	sample95
+BROAD	H12	cgtctaatccat	CT	acattgtggaca	TGCTATAT	tube96	sample96
+CLAY	A01	accgctaatagc		catgttggaccg	GTGCGAGTG	tube97	sample97
+CLAY	B01	ccgcttctagtt	CT	catgttggaccg	GTGCGAGTG	tube98	sample98
+CLAY	C01	ggtgattacaca	AGC	catgttggaccg	GTGCGAGTG	tube99	sample99
+CLAY	D01	atgtcgtcctgg	TCAT	catgttggaccg	GTGCGAGTG	tube100	sample100
+CLAY	E01	aacacatcagcg	ACACAGATCA	catgttggaccg	GTGCGAGTG	tube101	sample101
+CLAY	F01	gtatagacgagc	TGACACTGATA	catgttggaccg	GTGCGAGTG	tube102	sample102
+CLAY	G01	gagaccggttat		catgttggaccg	GTGCGAGTG	tube103	sample103
+CLAY	H01	cgtctaatccat	CT	catgttggaccg	GTGCGAGTG	tube104	sample104
+CLAY	A02	accgctaatagc		tgacgctcaatt	GTGCGAGTG	tube105	sample105
+CLAY	B02	ccgcttctagtt	CT	tgacgctcaatt	GTGCGAGTG	tube106	sample106
+CLAY	C02	ggtgattacaca	AGC	tgacgctcaatt	GTGCGAGTG	tube107	sample107
+CLAY	D02	atgtcgtcctgg	TCAT	tgacgctcaatt	GTGCGAGTG	tube108	sample108
+CLAY	E02	aacacatcagcg	ACACAGATCA	tgacgctcaatt	GTGCGAGTG	tube109	sample109
+CLAY	F02	gtatagacgagc	TGACACTGATA	tgacgctcaatt	GTGCGAGTG	tube110	sample110
+CLAY	G02	gagaccggttat		tgacgctcaatt	GTGCGAGTG	tube111	sample111
+CLAY	H02	cgtctaatccat	CT	tgacgctcaatt	GTGCGAGTG	tube112	sample112
+CLAY	A03	accgctaatagc		ggagcgctcatt	GTGTCAGAGT	tube113	sample113
+CLAY	B03	ccgcttctagtt	CT	ggagcgctcatt	GTGTCAGAGT	tube114	sample114
+CLAY	C03	ggtgattacaca	AGC	ggagcgctcatt	GTGTCAGAGT	tube115	sample115
+CLAY	D03	atgtcgtcctgg	TCAT	ggagcgctcatt	GTGTCAGAGT	tube116	sample116
+CLAY	E03	aacacatcagcg	ACACAGATCA	ggagcgctcatt	GTGTCAGAGT	tube117	sample117
+CLAY	F03	gtatagacgagc	TGACACTGATA	ggagcgctcatt	GTGTCAGAGT	tube118	sample118
+CLAY	G03	gagaccggttat		ggagcgctcatt	GTGTCAGAGT	tube119	sample119
+CLAY	H03	cgtctaatccat	CT	ggagcgctcatt	GTGTCAGAGT	tube120	sample120
+CLAY	A04	accgctaatagc		aagctgcggtgt	GTGTCAGAGT	tube121	sample121
+CLAY	B04	ccgcttctagtt	CT	aagctgcggtgt	GTGTCAGAGT	tube122	sample122
+CLAY	C04	ggtgattacaca	AGC	aagctgcggtgt	GTGTCAGAGT	tube123	sample123
+CLAY	D04	atgtcgtcctgg	TCAT	aagctgcggtgt	GTGTCAGAGT	tube124	sample124
+CLAY	E04	aacacatcagcg	ACACAGATCA	aagctgcggtgt	GTGTCAGAGT	tube125	sample125
+CLAY	F04	gtatagacgagc	TGACACTGATA	aagctgcggtgt	GTGTCAGAGT	tube126	sample126
+CLAY	G04	gagaccggttat		aagctgcggtgt	GTGTCAGAGT	tube127	sample127
+CLAY	H04	cgtctaatccat	CT	aagctgcggtgt	GTGTCAGAGT	tube128	sample128
+CLAY	A05	accgctaatagc		tctgcagcagat	TCAGTGT	tube129	sample129
+CLAY	B05	ccgcttctagtt	CT	tctgcagcagat	TCAGTGT	tube130	sample130
+CLAY	C05	ggtgattacaca	AGC	tctgcagcagat	TCAGTGT	tube131	sample131
+CLAY	D05	atgtcgtcctgg	TCAT	tctgcagcagat	TCAGTGT	tube132	sample132
+CLAY	E05	aacacatcagcg	ACACAGATCA	tctgcagcagat	TCAGTGT	tube133	sample133
+CLAY	F05	gtatagacgagc	TGACACTGATA	tctgcagcagat	TCAGTGT	tube134	sample134
+CLAY	G05	gagaccggttat		tctgcagcagat	TCAGTGT	tube135	sample135
+CLAY	H05	cgtctaatccat	CT	tctgcagcagat	TCAGTGT	tube136	sample136
+CLAY	A06	accgctaatagc		ctagctagatgt	TCAGTGT	tube137	sample137
+CLAY	B06	ccgcttctagtt	CT	ctagctagatgt	TCAGTGT	tube138	sample138
+CLAY	C06	ggtgattacaca	AGC	ctagctagatgt	TCAGTGT	tube139	sample139
+CLAY	D06	atgtcgtcctgg	TCAT	ctagctagatgt	TCAGTGT	tube140	sample140
+CLAY	E06	aacacatcagcg	ACACAGATCA	ctagctagatgt	TCAGTGT	tube141	sample141
+CLAY	F06	gtatagacgagc	TGACACTGATA	ctagctagatgt	TCAGTGT	tube142	sample142
+CLAY	G06	gagaccggttat		ctagctagatgt	TCAGTGT	tube143	sample143
+CLAY	H06	cgtctaatccat	CT	ctagctagatgt	TCAGTGT	tube144	sample144
+CLAY	A07	accgctaatagc		tcaagcactgag	TCATAGAT	tube145	sample145
+CLAY	B07	ccgcttctagtt	CT	tcaagcactgag	TCATAGAT	tube146	sample146
+CLAY	C07	ggtgattacaca	AGC	tcaagcactgag	TCATAGAT	tube147	sample147
+CLAY	D07	atgtcgtcctgg	TCAT	tcaagcactgag	TCATAGAT	tube148	sample148
+CLAY	E07	aacacatcagcg	ACACAGATCA	tcaagcactgag	TCATAGAT	tube149	sample149
+CLAY	F07	gtatagacgagc	TGACACTGATA	tcaagcactgag	TCATAGAT	tube150	sample150
+CLAY	G07	gagaccggttat		tcaagcactgag	TCATAGAT	tube151	sample151
+CLAY	H07	cgtctaatccat	CT	tcaagcactgag	TCATAGAT	tube152	sample152
+CLAY	A08	accgctaatagc		gcttgcgtagtg	TCATAGAT	tube153	sample153
+CLAY	B08	ccgcttctagtt	CT	gcttgcgtagtg	TCATAGAT	tube154	sample154
+CLAY	C08	ggtgattacaca	AGC	gcttgcgtagtg	TCATAGAT	tube155	sample155
+CLAY	D08	atgtcgtcctgg	TCAT	gcttgcgtagtg	TCATAGAT	tube156	sample156
+CLAY	E08	aacacatcagcg	ACACAGATCA	gcttgcgtagtg	TCATAGAT	tube157	sample157
+CLAY	F08	gtatagacgagc	TGACACTGATA	gcttgcgtagtg	TCATAGAT	tube158	sample158
+CLAY	G08	gagaccggttat		gcttgcgtagtg	TCATAGAT	tube159	sample159
+CLAY	H08	cgtctaatccat	CT	gcttgcgtagtg	TCATAGAT	tube160	sample160
+CLAY	A09	accgctaatagc		tatcatgcgcac	CATACATGT	tube161	sample161
+CLAY	B09	ccgcttctagtt	CT	tatcatgcgcac	CATACATGT	tube162	sample162
+CLAY	C09	ggtgattacaca	AGC	tatcatgcgcac	CATACATGT	tube163	sample163
+CLAY	D09	atgtcgtcctgg	TCAT	tatcatgcgcac	CATACATGT	tube164	sample164
+CLAY	E09	aacacatcagcg	ACACAGATCA	tatcatgcgcac	CATACATGT	tube165	sample165
+CLAY	F09	gtatagacgagc	TGACACTGATA	tatcatgcgcac	CATACATGT	tube166	sample166
+CLAY	G09	gagaccggttat		tatcatgcgcac	CATACATGT	tube167	sample167
+CLAY	H09	cgtctaatccat	CT	tatcatgcgcac	CATACATGT	tube168	sample168
+CLAY	A10	accgctaatagc		ctgtgctacacc	CATACATGT	tube169	sample169
+CLAY	B10	ccgcttctagtt	CT	ctgtgctacacc	CATACATGT	tube170	sample170
+CLAY	C10	ggtgattacaca	AGC	ctgtgctacacc	CATACATGT	tube171	sample171
+CLAY	D10	atgtcgtcctgg	TCAT	ctgtgctacacc	CATACATGT	tube172	sample172
+CLAY	E10	aacacatcagcg	ACACAGATCA	ctgtgctacacc	CATACATGT	tube173	sample173
+CLAY	F10	gtatagacgagc	TGACACTGATA	ctgtgctacacc	CATACATGT	tube174	sample174
+CLAY	G10	gagaccggttat		ctgtgctacacc	CATACATGT	tube175	sample175
+CLAY	H10	cgtctaatccat	CT	ctgtgctacacc	CATACATGT	tube176	sample176
+CLAY	A11	accgctaatagc		tgcttgttctgg	CATGTCGATA	tube177	sample177
+CLAY	B11	ccgcttctagtt	CT	tgcttgttctgg	CATGTCGATA	tube178	sample178
+CLAY	C11	ggtgattacaca	AGC	tgcttgttctgg	CATGTCGATA	tube179	sample179
+CLAY	D11	atgtcgtcctgg	TCAT	tgcttgttctgg	CATGTCGATA	tube180	sample180
+CLAY	E11	aacacatcagcg	ACACAGATCA	tgcttgttctgg	CATGTCGATA	tube181	sample181
+CLAY	F11	gtatagacgagc	TGACACTGATA	tgcttgttctgg	CATGTCGATA	tube182	sample182
+CLAY	G11	gagaccggttat		tgcttgttctgg	CATGTCGATA	tube183	sample183
+CLAY	H11	cgtctaatccat	CT	tgcttgttctgg	CATGTCGATA	tube184	sample184
+CLAY	A12	accgctaatagc		catcagcttgga	CATGTCGATA	tube185	sample185
+CLAY	B12	ccgcttctagtt	CT	catcagcttgga	CATGTCGATA	tube186	sample186
+CLAY	C12	ggtgattacaca	AGC	catcagcttgga	CATGTCGATA	tube187	sample187
+CLAY	D12	atgtcgtcctgg	TCAT	catcagcttgga	CATGTCGATA	tube188	sample188
+CLAY	E12	aacacatcagcg	ACACAGATCA	catcagcttgga	CATGTCGATA	tube189	sample189
+CLAY	F12	gtatagacgagc	TGACACTGATA	catcagcttgga	CATGTCGATA	tube190	sample190
+CLAY	G12	gagaccggttat		catcagcttgga	CATGTCGATA	tube191	sample191
+CLAY	H12	cgtctaatccat	CT	catcagcttgga	CATGTCGATA	tube192	sample192
+JEFFERSON	A01	tcagctgtgttg	GACAGC	cgctgagttagc	AT	tube193	sample193
+JEFFERSON	B01	tagagtccgtcg	CACTCAT	cgctgagttagc	AT	tube194	sample194
+JEFFERSON	C01	taagagtgacgc	GCTCAGATCA	cgctgagttagc	AT	tube195	sample195
+JEFFERSON	D01	ctgtgaagtacc	AGTATCTGATA	cgctgagttagc	AT	tube196	sample196
+JEFFERSON	E01	gacttgcctgac	TATGAT	cgctgagttagc	AT	tube197	sample197
+JEFFERSON	F01	aatcgcttgcta	CACATCT	cgctgagttagc	AT	tube198	sample198
+JEFFERSON	G01	gctaaccaatga	ACAGCACAGC	cgctgagttagc	AT	tube199	sample199
+JEFFERSON	H01	cgagacgactat	TGTGTGATCAT	cgctgagttagc	AT	tube200	sample200
+JEFFERSON	A02	tcagctgtgttg	GACAGC	gatctgtcgcta	AT	tube201	sample201
+JEFFERSON	B02	tagagtccgtcg	CACTCAT	gatctgtcgcta	AT	tube202	sample202
+JEFFERSON	C02	taagagtgacgc	GCTCAGATCA	gatctgtcgcta	AT	tube203	sample203
+JEFFERSON	D02	ctgtgaagtacc	AGTATCTGATA	gatctgtcgcta	AT	tube204	sample204
+JEFFERSON	E02	gacttgcctgac	TATGAT	gatctgtcgcta	AT	tube205	sample205
+JEFFERSON	F02	aatcgcttgcta	CACATCT	gatctgtcgcta	AT	tube206	sample206
+JEFFERSON	G02	gctaaccaatga	ACAGCACAGC	gatctgtcgcta	AT	tube207	sample207
+JEFFERSON	H02	cgagacgactat	TGTGTGATCAT	gatctgtcgcta	AT	tube208	sample208
+JEFFERSON	A03	tcagctgtgttg	GACAGC	caggtacaaccg	ACT	tube209	sample209
+JEFFERSON	B03	tagagtccgtcg	CACTCAT	caggtacaaccg	ACT	tube210	sample210
+JEFFERSON	C03	taagagtgacgc	GCTCAGATCA	caggtacaaccg	ACT	tube211	sample211
+JEFFERSON	D03	ctgtgaagtacc	AGTATCTGATA	caggtacaaccg	ACT	tube212	sample212
+JEFFERSON	E03	gacttgcctgac	TATGAT	caggtacaaccg	ACT	tube213	sample213
+JEFFERSON	F03	aatcgcttgcta	CACATCT	caggtacaaccg	ACT	tube214	sample214
+JEFFERSON	G03	gctaaccaatga	ACAGCACAGC	caggtacaaccg	ACT	tube215	sample215
+JEFFERSON	H03	cgagacgactat	TGTGTGATCAT	caggtacaaccg	ACT	tube216	sample216
+JEFFERSON	A04	tcagctgtgttg	GACAGC	tagaacaacgct	ACT	tube217	sample217
+JEFFERSON	B04	tagagtccgtcg	CACTCAT	tagaacaacgct	ACT	tube218	sample218
+JEFFERSON	C04	taagagtgacgc	GCTCAGATCA	tagaacaacgct	ACT	tube219	sample219
+JEFFERSON	D04	ctgtgaagtacc	AGTATCTGATA	tagaacaacgct	ACT	tube220	sample220
+JEFFERSON	E04	gacttgcctgac	TATGAT	tagaacaacgct	ACT	tube221	sample221
+JEFFERSON	F04	aatcgcttgcta	CACATCT	tagaacaacgct	ACT	tube222	sample222
+JEFFERSON	G04	gctaaccaatga	ACAGCACAGC	tagaacaacgct	ACT	tube223	sample223
+JEFFERSON	H04	cgagacgactat	TGTGTGATCAT	tagaacaacgct	ACT	tube224	sample224
+JEFFERSON	A05	tcagctgtgttg	GACAGC	aggactcacgtg	AGCAG	tube225	sample225
+JEFFERSON	B05	tagagtccgtcg	CACTCAT	aggactcacgtg	AGCAG	tube226	sample226
+JEFFERSON	C05	taagagtgacgc	GCTCAGATCA	aggactcacgtg	AGCAG	tube227	sample227
+JEFFERSON	D05	ctgtgaagtacc	AGTATCTGATA	aggactcacgtg	AGCAG	tube228	sample228
+JEFFERSON	E05	gacttgcctgac	TATGAT	aggactcacgtg	AGCAG	tube229	sample229
+JEFFERSON	F05	aatcgcttgcta	CACATCT	aggactcacgtg	AGCAG	tube230	sample230
+JEFFERSON	G05	gctaaccaatga	ACAGCACAGC	aggactcacgtg	AGCAG	tube231	sample231
+JEFFERSON	H05	cgagacgactat	TGTGTGATCAT	aggactcacgtg	AGCAG	tube232	sample232
+JEFFERSON	A06	tcagctgtgttg	GACAGC	tgcgattcttca	AGCAGT	tube233	sample233
+JEFFERSON	B06	tagagtccgtcg	CACTCAT	tgcgattcttca	AGCAGT	tube234	sample234
+JEFFERSON	C06	taagagtgacgc	GCTCAGATCA	tgcgattcttca	AGCAGT	tube235	sample235
+JEFFERSON	D06	ctgtgaagtacc	AGTATCTGATA	tgcgattcttca	AGCAGT	tube236	sample236
+JEFFERSON	E06	gacttgcctgac	TATGAT	tgcgattcttca	AGCAGT	tube237	sample237
+JEFFERSON	F06	aatcgcttgcta	CACATCT	tgcgattcttca	AGCAGT	tube238	sample238
+JEFFERSON	G06	gctaaccaatga	ACAGCACAGC	tgcgattcttca	AGCAGT	tube239	sample239
+JEFFERSON	H06	cgagacgactat	TGTGTGATCAT	tgcgattcttca	AGCAGT	tube240	sample240
+JEFFERSON	A07	tcagctgtgttg	GACAGC	cgtaccggagta	GAGAT	tube241	sample241
+JEFFERSON	B07	tagagtccgtcg	CACTCAT	cgtaccggagta	GAGAT	tube242	sample242
+JEFFERSON	C07	taagagtgacgc	GCTCAGATCA	cgtaccggagta	GAGAT	tube243	sample243
+JEFFERSON	D07	ctgtgaagtacc	AGTATCTGATA	cgtaccggagta	GAGAT	tube244	sample244
+JEFFERSON	E07	gacttgcctgac	TATGAT	cgtaccggagta	GAGAT	tube245	sample245
+JEFFERSON	F07	aatcgcttgcta	CACATCT	cgtaccggagta	GAGAT	tube246	sample246
+JEFFERSON	G07	gctaaccaatga	ACAGCACAGC	cgtaccggagta	GAGAT	tube247	sample247
+JEFFERSON	H07	cgagacgactat	TGTGTGATCAT	cgtaccggagta	GAGAT	tube248	sample248
+JEFFERSON	A08	tcagctgtgttg	GACAGC	ctcattgccatt	GAGAT	tube249	sample249
+JEFFERSON	B08	tagagtccgtcg	CACTCAT	ctcattgccatt	GAGAT	tube250	sample250
+JEFFERSON	C08	taagagtgacgc	GCTCAGATCA	ctcattgccatt	GAGAT	tube251	sample251
+JEFFERSON	D08	ctgtgaagtacc	AGTATCTGATA	ctcattgccatt	GAGAT	tube252	sample252
+JEFFERSON	E08	gacttgcctgac	TATGAT	ctcattgccatt	GAGAT	tube253	sample253
+JEFFERSON	F08	aatcgcttgcta	CACATCT	ctcattgccatt	GAGAT	tube254	sample254
+JEFFERSON	G08	gctaaccaatga	ACAGCACAGC	ctcattgccatt	GAGAT	tube255	sample255
+JEFFERSON	H08	cgagacgactat	TGTGTGATCAT	ctcattgccatt	GAGAT	tube256	sample256
+JEFFERSON	A09	tcagctgtgttg	GACAGC	ataagccagatc	CGAGATA	tube257	sample257
+JEFFERSON	B09	tagagtccgtcg	CACTCAT	ataagccagatc	CGAGATA	tube258	sample258
+JEFFERSON	C09	taagagtgacgc	GCTCAGATCA	ataagccagatc	CGAGATA	tube259	sample259
+JEFFERSON	D09	ctgtgaagtacc	AGTATCTGATA	ataagccagatc	CGAGATA	tube260	sample260
+JEFFERSON	E09	gacttgcctgac	TATGAT	ataagccagatc	CGAGATA	tube261	sample261
+JEFFERSON	F09	aatcgcttgcta	CACATCT	ataagccagatc	CGAGATA	tube262	sample262
+JEFFERSON	G09	gctaaccaatga	ACAGCACAGC	ataagccagatc	CGAGATA	tube263	sample263
+JEFFERSON	H09	cgagacgactat	TGTGTGATCAT	ataagccagatc	CGAGATA	tube264	sample264
+JEFFERSON	A10	tcagctgtgttg	GACAGC	attggaacgtac	CGAGATA	tube265	sample265
+JEFFERSON	B10	tagagtccgtcg	CACTCAT	attggaacgtac	CGAGATA	tube266	sample266
+JEFFERSON	C10	taagagtgacgc	GCTCAGATCA	attggaacgtac	CGAGATA	tube267	sample267
+JEFFERSON	D10	ctgtgaagtacc	AGTATCTGATA	attggaacgtac	CGAGATA	tube268	sample268
+JEFFERSON	E10	gacttgcctgac	TATGAT	attggaacgtac	CGAGATA	tube269	sample269
+JEFFERSON	F10	aatcgcttgcta	CACATCT	attggaacgtac	CGAGATA	tube270	sample270
+JEFFERSON	G10	gctaaccaatga	ACAGCACAGC	attggaacgtac	CGAGATA	tube271	sample271
+JEFFERSON	H10	cgagacgactat	TGTGTGATCAT	attggaacgtac	CGAGATA	tube272	sample272
+JEFFERSON	A11	tcagctgtgttg	GACAGC	gtcctcctatgc	TGCTATAT	tube273	sample273
+JEFFERSON	B11	tagagtccgtcg	CACTCAT	gtcctcctatgc	TGCTATAT	tube274	sample274
+JEFFERSON	C11	taagagtgacgc	GCTCAGATCA	gtcctcctatgc	TGCTATAT	tube275	sample275
+JEFFERSON	D11	ctgtgaagtacc	AGTATCTGATA	gtcctcctatgc	TGCTATAT	tube276	sample276
+JEFFERSON	E11	gacttgcctgac	TATGAT	gtcctcctatgc	TGCTATAT	tube277	sample277
+JEFFERSON	F11	aatcgcttgcta	CACATCT	gtcctcctatgc	TGCTATAT	tube278	sample278
+JEFFERSON	G11	gctaaccaatga	ACAGCACAGC	gtcctcctatgc	TGCTATAT	tube279	sample279
+JEFFERSON	H11	cgagacgactat	TGTGTGATCAT	gtcctcctatgc	TGCTATAT	tube280	sample280
+JEFFERSON	A12	tcagctgtgttg	GACAGC	acattgtggaca	TGCTATAT	tube281	sample281
+JEFFERSON	B12	tagagtccgtcg	CACTCAT	acattgtggaca	TGCTATAT	tube282	sample282
+JEFFERSON	C12	taagagtgacgc	GCTCAGATCA	acattgtggaca	TGCTATAT	tube283	sample283
+JEFFERSON	D12	ctgtgaagtacc	AGTATCTGATA	acattgtggaca	TGCTATAT	tube284	sample284
+JEFFERSON	E12	gacttgcctgac	TATGAT	acattgtggaca	TGCTATAT	tube285	sample285
+JEFFERSON	F12	aatcgcttgcta	CACATCT	acattgtggaca	TGCTATAT	tube286	sample286
+JEFFERSON	G12	gctaaccaatga	ACAGCACAGC	acattgtggaca	TGCTATAT	tube287	sample287
+JEFFERSON	H12	cgagacgactat	TGTGTGATCAT	acattgtggaca	TGCTATAT	tube288	sample288
+MARSHALL	A01	tcagctgtgttg	GACAGC	catgttggaccg	GTGCGAGTG	tube289	sample289
+MARSHALL	B01	tagagtccgtcg	CACTCAT	catgttggaccg	GTGCGAGTG	tube290	sample290
+MARSHALL	C01	taagagtgacgc	GCTCAGATCA	catgttggaccg	GTGCGAGTG	tube291	sample291
+MARSHALL	D01	ctgtgaagtacc	AGTATCTGATA	catgttggaccg	GTGCGAGTG	tube292	sample292
+MARSHALL	E01	gacttgcctgac	TATGAT	catgttggaccg	GTGCGAGTG	tube293	sample293
+MARSHALL	F01	aatcgcttgcta	CACATCT	catgttggaccg	GTGCGAGTG	tube294	sample294
+MARSHALL	G01	gctaaccaatga	ACAGCACAGC	catgttggaccg	GTGCGAGTG	tube295	sample295
+MARSHALL	H01	cgagacgactat	TGTGTGATCAT	catgttggaccg	GTGCGAGTG	tube296	sample296
+MARSHALL	A02	tcagctgtgttg	GACAGC	tgacgctcaatt	GTGCGAGTG	tube297	sample297
+MARSHALL	B02	tagagtccgtcg	CACTCAT	tgacgctcaatt	GTGCGAGTG	tube298	sample298
+MARSHALL	C02	taagagtgacgc	GCTCAGATCA	tgacgctcaatt	GTGCGAGTG	tube299	sample299
+MARSHALL	D02	ctgtgaagtacc	AGTATCTGATA	tgacgctcaatt	GTGCGAGTG	tube300	sample300
+MARSHALL	E02	gacttgcctgac	TATGAT	tgacgctcaatt	GTGCGAGTG	tube301	sample301
+MARSHALL	F02	aatcgcttgcta	CACATCT	tgacgctcaatt	GTGCGAGTG	tube302	sample302
+MARSHALL	G02	gctaaccaatga	ACAGCACAGC	tgacgctcaatt	GTGCGAGTG	tube303	sample303
+MARSHALL	H02	cgagacgactat	TGTGTGATCAT	tgacgctcaatt	GTGCGAGTG	tube304	sample304
+MARSHALL	A03	tcagctgtgttg	GACAGC	ggagcgctcatt	GTGTCAGAGT	tube305	sample305
+MARSHALL	B03	tagagtccgtcg	CACTCAT	ggagcgctcatt	GTGTCAGAGT	tube306	sample306
+MARSHALL	C03	taagagtgacgc	GCTCAGATCA	ggagcgctcatt	GTGTCAGAGT	tube307	sample307
+MARSHALL	D03	ctgtgaagtacc	AGTATCTGATA	ggagcgctcatt	GTGTCAGAGT	tube308	sample308
+MARSHALL	E03	gacttgcctgac	TATGAT	ggagcgctcatt	GTGTCAGAGT	tube309	sample309
+MARSHALL	F03	aatcgcttgcta	CACATCT	ggagcgctcatt	GTGTCAGAGT	tube310	sample310
+MARSHALL	G03	gctaaccaatga	ACAGCACAGC	ggagcgctcatt	GTGTCAGAGT	tube311	sample311
+MARSHALL	H03	cgagacgactat	TGTGTGATCAT	ggagcgctcatt	GTGTCAGAGT	tube312	sample312
+MARSHALL	A04	tcagctgtgttg	GACAGC	aagctgcggtgt	GTGTCAGAGT	tube313	sample313
+MARSHALL	B04	tagagtccgtcg	CACTCAT	aagctgcggtgt	GTGTCAGAGT	tube314	sample314
+MARSHALL	C04	taagagtgacgc	GCTCAGATCA	aagctgcggtgt	GTGTCAGAGT	tube315	sample315
+MARSHALL	D04	ctgtgaagtacc	AGTATCTGATA	aagctgcggtgt	GTGTCAGAGT	tube316	sample316
+MARSHALL	E04	gacttgcctgac	TATGAT	aagctgcggtgt	GTGTCAGAGT	tube317	sample317
+MARSHALL	F04	aatcgcttgcta	CACATCT	aagctgcggtgt	GTGTCAGAGT	tube318	sample318
+MARSHALL	G04	gctaaccaatga	ACAGCACAGC	aagctgcggtgt	GTGTCAGAGT	tube319	sample319
+MARSHALL	H04	cgagacgactat	TGTGTGATCAT	aagctgcggtgt	GTGTCAGAGT	tube320	sample320
+MARSHALL	A05	tcagctgtgttg	GACAGC	tctgcagcagat	TCAGTGT	tube321	sample321
+MARSHALL	B05	tagagtccgtcg	CACTCAT	tctgcagcagat	TCAGTGT	tube322	sample322
+MARSHALL	C05	taagagtgacgc	GCTCAGATCA	tctgcagcagat	TCAGTGT	tube323	sample323
+MARSHALL	D05	ctgtgaagtacc	AGTATCTGATA	tctgcagcagat	TCAGTGT	tube324	sample324
+MARSHALL	E05	gacttgcctgac	TATGAT	tctgcagcagat	TCAGTGT	tube325	sample325
+MARSHALL	F05	aatcgcttgcta	CACATCT	tctgcagcagat	TCAGTGT	tube326	sample326
+MARSHALL	G05	gctaaccaatga	ACAGCACAGC	tctgcagcagat	TCAGTGT	tube327	sample327
+MARSHALL	H05	cgagacgactat	TGTGTGATCAT	tctgcagcagat	TCAGTGT	tube328	sample328
+MARSHALL	A06	tcagctgtgttg	GACAGC	ctagctagatgt	TCAGTGT	tube329	sample329
+MARSHALL	B06	tagagtccgtcg	CACTCAT	ctagctagatgt	TCAGTGT	tube330	sample330
+MARSHALL	C06	taagagtgacgc	GCTCAGATCA	ctagctagatgt	TCAGTGT	tube331	sample331
+MARSHALL	D06	ctgtgaagtacc	AGTATCTGATA	ctagctagatgt	TCAGTGT	tube332	sample332
+MARSHALL	E06	gacttgcctgac	TATGAT	ctagctagatgt	TCAGTGT	tube333	sample333
+MARSHALL	F06	aatcgcttgcta	CACATCT	ctagctagatgt	TCAGTGT	tube334	sample334
+MARSHALL	G06	gctaaccaatga	ACAGCACAGC	ctagctagatgt	TCAGTGT	tube335	sample335
+MARSHALL	H06	cgagacgactat	TGTGTGATCAT	ctagctagatgt	TCAGTGT	tube336	sample336
+MARSHALL	A07	tcagctgtgttg	GACAGC	tcaagcactgag	TCATAGAT	tube337	sample337
+MARSHALL	B07	tagagtccgtcg	CACTCAT	tcaagcactgag	TCATAGAT	tube338	sample338
+MARSHALL	C07	taagagtgacgc	GCTCAGATCA	tcaagcactgag	TCATAGAT	tube339	sample339
+MARSHALL	D07	ctgtgaagtacc	AGTATCTGATA	tcaagcactgag	TCATAGAT	tube340	sample340
+MARSHALL	E07	gacttgcctgac	TATGAT	tcaagcactgag	TCATAGAT	tube341	sample341
+MARSHALL	F07	aatcgcttgcta	CACATCT	tcaagcactgag	TCATAGAT	tube342	sample342
+MARSHALL	G07	gctaaccaatga	ACAGCACAGC	tcaagcactgag	TCATAGAT	tube343	sample343
+MARSHALL	H07	cgagacgactat	TGTGTGATCAT	tcaagcactgag	TCATAGAT	tube344	sample344
+MARSHALL	A08	tcagctgtgttg	GACAGC	gcttgcgtagtg	TCATAGAT	tube345	sample345
+MARSHALL	B08	tagagtccgtcg	CACTCAT	gcttgcgtagtg	TCATAGAT	tube346	sample346
+MARSHALL	C08	taagagtgacgc	GCTCAGATCA	gcttgcgtagtg	TCATAGAT	tube347	sample347
+MARSHALL	D08	ctgtgaagtacc	AGTATCTGATA	gcttgcgtagtg	TCATAGAT	tube348	sample348
+MARSHALL	E08	gacttgcctgac	TATGAT	gcttgcgtagtg	TCATAGAT	tube349	sample349
+MARSHALL	F08	aatcgcttgcta	CACATCT	gcttgcgtagtg	TCATAGAT	tube350	sample350
+MARSHALL	G08	gctaaccaatga	ACAGCACAGC	gcttgcgtagtg	TCATAGAT	tube351	sample351
+MARSHALL	H08	cgagacgactat	TGTGTGATCAT	gcttgcgtagtg	TCATAGAT	tube352	sample352
+MARSHALL	A09	tcagctgtgttg	GACAGC	tatcatgcgcac	CATACATGT	tube353	sample353
+MARSHALL	B09	tagagtccgtcg	CACTCAT	tatcatgcgcac	CATACATGT	tube354	sample354
+MARSHALL	C09	taagagtgacgc	GCTCAGATCA	tatcatgcgcac	CATACATGT	tube355	sample355
+MARSHALL	D09	ctgtgaagtacc	AGTATCTGATA	tatcatgcgcac	CATACATGT	tube356	sample356
+MARSHALL	E09	gacttgcctgac	TATGAT	tatcatgcgcac	CATACATGT	tube357	sample357
+MARSHALL	F09	aatcgcttgcta	CACATCT	tatcatgcgcac	CATACATGT	tube358	sample358
+MARSHALL	G09	gctaaccaatga	ACAGCACAGC	tatcatgcgcac	CATACATGT	tube359	sample359
+MARSHALL	H09	cgagacgactat	TGTGTGATCAT	tatcatgcgcac	CATACATGT	tube360	sample360
+MARSHALL	A10	tcagctgtgttg	GACAGC	ctgtgctacacc	CATACATGT	tube361	sample361
+MARSHALL	B10	tagagtccgtcg	CACTCAT	ctgtgctacacc	CATACATGT	tube362	sample362
+MARSHALL	C10	taagagtgacgc	GCTCAGATCA	ctgtgctacacc	CATACATGT	tube363	sample363
+MARSHALL	D10	ctgtgaagtacc	AGTATCTGATA	ctgtgctacacc	CATACATGT	tube364	sample364
+MARSHALL	E10	gacttgcctgac	TATGAT	ctgtgctacacc	CATACATGT	tube365	sample365
+MARSHALL	F10	aatcgcttgcta	CACATCT	ctgtgctacacc	CATACATGT	tube366	sample366
+MARSHALL	G10	gctaaccaatga	ACAGCACAGC	ctgtgctacacc	CATACATGT	tube367	sample367
+MARSHALL	H10	cgagacgactat	TGTGTGATCAT	ctgtgctacacc	CATACATGT	tube368	sample368
+MARSHALL	A11	tcagctgtgttg	GACAGC	tgcttgttctgg	CATGTCGATA	tube369	sample369
+MARSHALL	B11	tagagtccgtcg	CACTCAT	tgcttgttctgg	CATGTCGATA	tube370	sample370
+MARSHALL	C11	taagagtgacgc	GCTCAGATCA	tgcttgttctgg	CATGTCGATA	tube371	sample371
+MARSHALL	D11	ctgtgaagtacc	AGTATCTGATA	tgcttgttctgg	CATGTCGATA	tube372	sample372
+MARSHALL	E11	gacttgcctgac	TATGAT	tgcttgttctgg	CATGTCGATA	tube373	sample373
+MARSHALL	F11	aatcgcttgcta	CACATCT	tgcttgttctgg	CATGTCGATA	tube374	sample374
+MARSHALL	G11	gctaaccaatga	ACAGCACAGC	tgcttgttctgg	CATGTCGATA	tube375	sample375
+MARSHALL	H11	cgagacgactat	TGTGTGATCAT	tgcttgttctgg	CATGTCGATA	tube376	sample376
+MARSHALL	A12	tcagctgtgttg	GACAGC	catcagcttgga	CATGTCGATA	tube377	sample377
+MARSHALL	B12	tagagtccgtcg	CACTCAT	catcagcttgga	CATGTCGATA	tube378	sample378
+MARSHALL	C12	taagagtgacgc	GCTCAGATCA	catcagcttgga	CATGTCGATA	tube379	sample379
+MARSHALL	D12	ctgtgaagtacc	AGTATCTGATA	catcagcttgga	CATGTCGATA	tube380	sample380
+MARSHALL	E12	gacttgcctgac	TATGAT	catcagcttgga	CATGTCGATA	tube381	sample381
+MARSHALL	F12	aatcgcttgcta	CACATCT	catcagcttgga	CATGTCGATA	tube382	sample382
+MARSHALL	G12	gctaaccaatga	ACAGCACAGC	catcagcttgga	CATGTCGATA	tube383	sample383
+MARSHALL	H12	cgagacgactat	TGTGTGATCAT	catcagcttgga	CATGTCGATA	tube384	sample384
+MAIN	A01	gcacgtgcttaa		cgctgagttagc	AT	tube385	sample385
+MAIN	B01	agcaagttgaac	CT	cgctgagttagc	AT	tube386	sample386
+MAIN	C01	cttctcttcgcc	AGC	cgctgagttagc	AT	tube387	sample387
+MAIN	D01	ttgcgcatcgta	TCAT	cgctgagttagc	AT	tube388	sample388
+MAIN	E01	acagtcttcgat	ACACAGATCA	cgctgagttagc	AT	tube389	sample389
+MAIN	F01	cgctaactcttc	TGACACTGATA	cgctgagttagc	AT	tube390	sample390
+MAIN	G01	gtcctatgtggt		cgctgagttagc	AT	tube391	sample391
+MAIN	H01	ggtctacgattg	CT	cgctgagttagc	AT	tube392	sample392
+MAIN	A02	gcacgtgcttaa		gatctgtcgcta	AT	tube393	sample393
+MAIN	B02	agcaagttgaac	CT	gatctgtcgcta	AT	tube394	sample394
+MAIN	C02	cttctcttcgcc	AGC	gatctgtcgcta	AT	tube395	sample395
+MAIN	D02	ttgcgcatcgta	TCAT	gatctgtcgcta	AT	tube396	sample396
+MAIN	E02	acagtcttcgat	ACACAGATCA	gatctgtcgcta	AT	tube397	sample397
+MAIN	F02	cgctaactcttc	TGACACTGATA	gatctgtcgcta	AT	tube398	sample398
+MAIN	G02	gtcctatgtggt		gatctgtcgcta	AT	tube399	sample399
+MAIN	H02	ggtctacgattg	CT	gatctgtcgcta	AT	tube400	sample400
+MAIN	A03	gcacgtgcttaa		caggtacaaccg	ACT	tube401	sample401
+MAIN	B03	agcaagttgaac	CT	caggtacaaccg	ACT	tube402	sample402
+MAIN	C03	cttctcttcgcc	AGC	caggtacaaccg	ACT	tube403	sample403
+MAIN	D03	ttgcgcatcgta	TCAT	caggtacaaccg	ACT	tube404	sample404
+MAIN	E03	acagtcttcgat	ACACAGATCA	caggtacaaccg	ACT	tube405	sample405
+MAIN	F03	cgctaactcttc	TGACACTGATA	caggtacaaccg	ACT	tube406	sample406
+MAIN	G03	gtcctatgtggt		caggtacaaccg	ACT	tube407	sample407
+MAIN	H03	ggtctacgattg	CT	caggtacaaccg	ACT	tube408	sample408
+MAIN	A04	gcacgtgcttaa		tagaacaacgct	ACT	tube409	sample409
+MAIN	B04	agcaagttgaac	CT	tagaacaacgct	ACT	tube410	sample410
+MAIN	C04	cttctcttcgcc	AGC	tagaacaacgct	ACT	tube411	sample411
+MAIN	D04	ttgcgcatcgta	TCAT	tagaacaacgct	ACT	tube412	sample412
+MAIN	E04	acagtcttcgat	ACACAGATCA	tagaacaacgct	ACT	tube413	sample413
+MAIN	F04	cgctaactcttc	TGACACTGATA	tagaacaacgct	ACT	tube414	sample414
+MAIN	G04	gtcctatgtggt		tagaacaacgct	ACT	tube415	sample415
+MAIN	H04	ggtctacgattg	CT	tagaacaacgct	ACT	tube416	sample416
+MAIN	A05	gcacgtgcttaa		aggactcacgtg	AGCAG	tube417	sample417
+MAIN	B05	agcaagttgaac	CT	aggactcacgtg	AGCAG	tube418	sample418
+MAIN	C05	cttctcttcgcc	AGC	aggactcacgtg	AGCAG	tube419	sample419
+MAIN	D05	ttgcgcatcgta	TCAT	aggactcacgtg	AGCAG	tube420	sample420
+MAIN	E05	acagtcttcgat	ACACAGATCA	aggactcacgtg	AGCAG	tube421	sample421
+MAIN	F05	cgctaactcttc	TGACACTGATA	aggactcacgtg	AGCAG	tube422	sample422
+MAIN	G05	gtcctatgtggt		aggactcacgtg	AGCAG	tube423	sample423
+MAIN	H05	ggtctacgattg	CT	aggactcacgtg	AGCAG	tube424	sample424
+MAIN	A06	gcacgtgcttaa		tgcgattcttca	AGCAGT	tube425	sample425
+MAIN	B06	agcaagttgaac	CT	tgcgattcttca	AGCAGT	tube426	sample426
+MAIN	C06	cttctcttcgcc	AGC	tgcgattcttca	AGCAGT	tube427	sample427
+MAIN	D06	ttgcgcatcgta	TCAT	tgcgattcttca	AGCAGT	tube428	sample428
+MAIN	E06	acagtcttcgat	ACACAGATCA	tgcgattcttca	AGCAGT	tube429	sample429
+MAIN	F06	cgctaactcttc	TGACACTGATA	tgcgattcttca	AGCAGT	tube430	sample430
+MAIN	G06	gtcctatgtggt		tgcgattcttca	AGCAGT	tube431	sample431
+MAIN	H06	ggtctacgattg	CT	tgcgattcttca	AGCAGT	tube432	sample432
+MAIN	A07	gcacgtgcttaa		cgtaccggagta	GAGAT	tube433	sample433
+MAIN	B07	agcaagttgaac	CT	cgtaccggagta	GAGAT	tube434	sample434
+MAIN	C07	cttctcttcgcc	AGC	cgtaccggagta	GAGAT	tube435	sample435
+MAIN	D07	ttgcgcatcgta	TCAT	cgtaccggagta	GAGAT	tube436	sample436
+MAIN	E07	acagtcttcgat	ACACAGATCA	cgtaccggagta	GAGAT	tube437	sample437
+MAIN	F07	cgctaactcttc	TGACACTGATA	cgtaccggagta	GAGAT	tube438	sample438
+MAIN	G07	gtcctatgtggt		cgtaccggagta	GAGAT	tube439	sample439
+MAIN	H07	ggtctacgattg	CT	cgtaccggagta	GAGAT	tube440	sample440
+MAIN	A08	gcacgtgcttaa		ctcattgccatt	GAGAT	tube441	sample441
+MAIN	B08	agcaagttgaac	CT	ctcattgccatt	GAGAT	tube442	sample442
+MAIN	C08	cttctcttcgcc	AGC	ctcattgccatt	GAGAT	tube443	sample443
+MAIN	D08	ttgcgcatcgta	TCAT	ctcattgccatt	GAGAT	tube444	sample444
+MAIN	E08	acagtcttcgat	ACACAGATCA	ctcattgccatt	GAGAT	tube445	sample445
+MAIN	F08	cgctaactcttc	TGACACTGATA	ctcattgccatt	GAGAT	tube446	sample446
+MAIN	G08	gtcctatgtggt		ctcattgccatt	GAGAT	tube447	sample447
+MAIN	H08	ggtctacgattg	CT	ctcattgccatt	GAGAT	tube448	sample448
+MAIN	A09	gcacgtgcttaa		ataagccagatc	CGAGATA	tube449	sample449
+MAIN	B09	agcaagttgaac	CT	ataagccagatc	CGAGATA	tube450	sample450
+MAIN	C09	cttctcttcgcc	AGC	ataagccagatc	CGAGATA	tube451	sample451
+MAIN	D09	ttgcgcatcgta	TCAT	ataagccagatc	CGAGATA	tube452	sample452
+MAIN	E09	acagtcttcgat	ACACAGATCA	ataagccagatc	CGAGATA	tube453	sample453
+MAIN	F09	cgctaactcttc	TGACACTGATA	ataagccagatc	CGAGATA	tube454	sample454
+MAIN	G09	gtcctatgtggt		ataagccagatc	CGAGATA	tube455	sample455
+MAIN	H09	ggtctacgattg	CT	ataagccagatc	CGAGATA	tube456	sample456
+MAIN	A10	gcacgtgcttaa		attggaacgtac	CGAGATA	tube457	sample457
+MAIN	B10	agcaagttgaac	CT	attggaacgtac	CGAGATA	tube458	sample458
+MAIN	C10	cttctcttcgcc	AGC	attggaacgtac	CGAGATA	tube459	sample459
+MAIN	D10	ttgcgcatcgta	TCAT	attggaacgtac	CGAGATA	tube460	sample460
+MAIN	E10	acagtcttcgat	ACACAGATCA	attggaacgtac	CGAGATA	tube461	sample461
+MAIN	F10	cgctaactcttc	TGACACTGATA	attggaacgtac	CGAGATA	tube462	sample462
+MAIN	G10	gtcctatgtggt		attggaacgtac	CGAGATA	tube463	sample463
+MAIN	H10	ggtctacgattg	CT	attggaacgtac	CGAGATA	tube464	sample464
+MAIN	A11	gcacgtgcttaa		gtcctcctatgc	TGCTATAT	tube465	sample465
+MAIN	B11	agcaagttgaac	CT	gtcctcctatgc	TGCTATAT	tube466	sample466
+MAIN	C11	cttctcttcgcc	AGC	gtcctcctatgc	TGCTATAT	tube467	sample467
+MAIN	D11	ttgcgcatcgta	TCAT	gtcctcctatgc	TGCTATAT	tube468	sample468
+MAIN	E11	acagtcttcgat	ACACAGATCA	gtcctcctatgc	TGCTATAT	tube469	sample469
+MAIN	F11	cgctaactcttc	TGACACTGATA	gtcctcctatgc	TGCTATAT	tube470	sample470
+MAIN	G11	gtcctatgtggt		gtcctcctatgc	TGCTATAT	tube471	sample471
+MAIN	H11	ggtctacgattg	CT	gtcctcctatgc	TGCTATAT	tube472	sample472
+MAIN	A12	gcacgtgcttaa		acattgtggaca	TGCTATAT	tube473	sample473
+MAIN	B12	agcaagttgaac	CT	acattgtggaca	TGCTATAT	tube474	sample474
+MAIN	C12	cttctcttcgcc	AGC	acattgtggaca	TGCTATAT	tube475	sample475
+MAIN	D12	ttgcgcatcgta	TCAT	acattgtggaca	TGCTATAT	tube476	sample476
+MAIN	E12	acagtcttcgat	ACACAGATCA	acattgtggaca	TGCTATAT	tube477	sample477
+MAIN	F12	cgctaactcttc	TGACACTGATA	acattgtggaca	TGCTATAT	tube478	sample478
+MAIN	G12	gtcctatgtggt		acattgtggaca	TGCTATAT	tube479	sample479
+MAIN	H12	ggtctacgattg	CT	acattgtggaca	TGCTATAT	tube480	sample480
+FRANKLIN	A01	gcacgtgcttaa		catgttggaccg	GTGCGAGTG	tube481	sample481
+FRANKLIN	B01	agcaagttgaac	CT	catgttggaccg	GTGCGAGTG	tube482	sample482
+FRANKLIN	C01	cttctcttcgcc	AGC	catgttggaccg	GTGCGAGTG	tube483	sample483
+FRANKLIN	D01	ttgcgcatcgta	TCAT	catgttggaccg	GTGCGAGTG	tube484	sample484
+FRANKLIN	E01	acagtcttcgat	ACACAGATCA	catgttggaccg	GTGCGAGTG	tube485	sample485
+FRANKLIN	F01	cgctaactcttc	TGACACTGATA	catgttggaccg	GTGCGAGTG	tube486	sample486
+FRANKLIN	G01	gtcctatgtggt		catgttggaccg	GTGCGAGTG	tube487	sample487
+FRANKLIN	H01	ggtctacgattg	CT	catgttggaccg	GTGCGAGTG	tube488	sample488
+FRANKLIN	A02	gcacgtgcttaa		tgacgctcaatt	GTGCGAGTG	tube489	sample489
+FRANKLIN	B02	agcaagttgaac	CT	tgacgctcaatt	GTGCGAGTG	tube490	sample490
+FRANKLIN	C02	cttctcttcgcc	AGC	tgacgctcaatt	GTGCGAGTG	tube491	sample491
+FRANKLIN	D02	ttgcgcatcgta	TCAT	tgacgctcaatt	GTGCGAGTG	tube492	sample492
+FRANKLIN	E02	acagtcttcgat	ACACAGATCA	tgacgctcaatt	GTGCGAGTG	tube493	sample493
+FRANKLIN	F02	cgctaactcttc	TGACACTGATA	tgacgctcaatt	GTGCGAGTG	tube494	sample494
+FRANKLIN	G02	gtcctatgtggt		tgacgctcaatt	GTGCGAGTG	tube495	sample495
+FRANKLIN	H02	ggtctacgattg	CT	tgacgctcaatt	GTGCGAGTG	tube496	sample496
+FRANKLIN	A03	gcacgtgcttaa		ggagcgctcatt	GTGTCAGAGT	tube497	sample497
+FRANKLIN	B03	agcaagttgaac	CT	ggagcgctcatt	GTGTCAGAGT	tube498	sample498
+FRANKLIN	C03	cttctcttcgcc	AGC	ggagcgctcatt	GTGTCAGAGT	tube499	sample499
+FRANKLIN	D03	ttgcgcatcgta	TCAT	ggagcgctcatt	GTGTCAGAGT	tube500	sample500
+FRANKLIN	E03	acagtcttcgat	ACACAGATCA	ggagcgctcatt	GTGTCAGAGT	tube501	sample501
+FRANKLIN	F03	cgctaactcttc	TGACACTGATA	ggagcgctcatt	GTGTCAGAGT	tube502	sample502
+FRANKLIN	G03	gtcctatgtggt		ggagcgctcatt	GTGTCAGAGT	tube503	sample503
+FRANKLIN	H03	ggtctacgattg	CT	ggagcgctcatt	GTGTCAGAGT	tube504	sample504
+FRANKLIN	A04	gcacgtgcttaa		aagctgcggtgt	GTGTCAGAGT	tube505	sample505
+FRANKLIN	B04	agcaagttgaac	CT	aagctgcggtgt	GTGTCAGAGT	tube506	sample506
+FRANKLIN	C04	cttctcttcgcc	AGC	aagctgcggtgt	GTGTCAGAGT	tube507	sample507
+FRANKLIN	D04	ttgcgcatcgta	TCAT	aagctgcggtgt	GTGTCAGAGT	tube508	sample508
+FRANKLIN	E04	acagtcttcgat	ACACAGATCA	aagctgcggtgt	GTGTCAGAGT	tube509	sample509
+FRANKLIN	F04	cgctaactcttc	TGACACTGATA	aagctgcggtgt	GTGTCAGAGT	tube510	sample510
+FRANKLIN	G04	gtcctatgtggt		aagctgcggtgt	GTGTCAGAGT	tube511	sample511
+FRANKLIN	H04	ggtctacgattg	CT	aagctgcggtgt	GTGTCAGAGT	tube512	sample512
+FRANKLIN	A05	gcacgtgcttaa		tctgcagcagat	TCAGTGT	tube513	sample513
+FRANKLIN	B05	agcaagttgaac	CT	tctgcagcagat	TCAGTGT	tube514	sample514
+FRANKLIN	C05	cttctcttcgcc	AGC	tctgcagcagat	TCAGTGT	tube515	sample515
+FRANKLIN	D05	ttgcgcatcgta	TCAT	tctgcagcagat	TCAGTGT	tube516	sample516
+FRANKLIN	E05	acagtcttcgat	ACACAGATCA	tctgcagcagat	TCAGTGT	tube517	sample517
+FRANKLIN	F05	cgctaactcttc	TGACACTGATA	tctgcagcagat	TCAGTGT	tube518	sample518
+FRANKLIN	G05	gtcctatgtggt		tctgcagcagat	TCAGTGT	tube519	sample519
+FRANKLIN	H05	ggtctacgattg	CT	tctgcagcagat	TCAGTGT	tube520	sample520
+FRANKLIN	A06	gcacgtgcttaa		ctagctagatgt	TCAGTGT	tube521	sample521
+FRANKLIN	B06	agcaagttgaac	CT	ctagctagatgt	TCAGTGT	tube522	sample522
+FRANKLIN	C06	cttctcttcgcc	AGC	ctagctagatgt	TCAGTGT	tube523	sample523
+FRANKLIN	D06	ttgcgcatcgta	TCAT	ctagctagatgt	TCAGTGT	tube524	sample524
+FRANKLIN	E06	acagtcttcgat	ACACAGATCA	ctagctagatgt	TCAGTGT	tube525	sample525
+FRANKLIN	F06	cgctaactcttc	TGACACTGATA	ctagctagatgt	TCAGTGT	tube526	sample526
+FRANKLIN	G06	gtcctatgtggt		ctagctagatgt	TCAGTGT	tube527	sample527
+FRANKLIN	H06	ggtctacgattg	CT	ctagctagatgt	TCAGTGT	tube528	sample528
+FRANKLIN	A07	gcacgtgcttaa		tcaagcactgag	TCATAGAT	tube529	sample529
+FRANKLIN	B07	agcaagttgaac	CT	tcaagcactgag	TCATAGAT	tube530	sample530
+FRANKLIN	C07	cttctcttcgcc	AGC	tcaagcactgag	TCATAGAT	tube531	sample531
+FRANKLIN	D07	ttgcgcatcgta	TCAT	tcaagcactgag	TCATAGAT	tube532	sample532
+FRANKLIN	E07	acagtcttcgat	ACACAGATCA	tcaagcactgag	TCATAGAT	tube533	sample533
+FRANKLIN	F07	cgctaactcttc	TGACACTGATA	tcaagcactgag	TCATAGAT	tube534	sample534
+FRANKLIN	G07	gtcctatgtggt		tcaagcactgag	TCATAGAT	tube535	sample535
+FRANKLIN	H07	ggtctacgattg	CT	tcaagcactgag	TCATAGAT	tube536	sample536
+FRANKLIN	A08	gcacgtgcttaa		gcttgcgtagtg	TCATAGAT	tube537	sample537
+FRANKLIN	B08	agcaagttgaac	CT	gcttgcgtagtg	TCATAGAT	tube538	sample538
+FRANKLIN	C08	cttctcttcgcc	AGC	gcttgcgtagtg	TCATAGAT	tube539	sample539
+FRANKLIN	D08	ttgcgcatcgta	TCAT	gcttgcgtagtg	TCATAGAT	tube540	sample540
+FRANKLIN	E08	acagtcttcgat	ACACAGATCA	gcttgcgtagtg	TCATAGAT	tube541	sample541
+FRANKLIN	F08	cgctaactcttc	TGACACTGATA	gcttgcgtagtg	TCATAGAT	tube542	sample542
+FRANKLIN	G08	gtcctatgtggt		gcttgcgtagtg	TCATAGAT	tube543	sample543
+FRANKLIN	H08	ggtctacgattg	CT	gcttgcgtagtg	TCATAGAT	tube544	sample544
+FRANKLIN	A09	gcacgtgcttaa		tatcatgcgcac	CATACATGT	tube545	sample545
+FRANKLIN	B09	agcaagttgaac	CT	tatcatgcgcac	CATACATGT	tube546	sample546
+FRANKLIN	C09	cttctcttcgcc	AGC	tatcatgcgcac	CATACATGT	tube547	sample547
+FRANKLIN	D09	ttgcgcatcgta	TCAT	tatcatgcgcac	CATACATGT	tube548	sample548
+FRANKLIN	E09	acagtcttcgat	ACACAGATCA	tatcatgcgcac	CATACATGT	tube549	sample549
+FRANKLIN	F09	cgctaactcttc	TGACACTGATA	tatcatgcgcac	CATACATGT	tube550	sample550
+FRANKLIN	G09	gtcctatgtggt		tatcatgcgcac	CATACATGT	tube551	sample551
+FRANKLIN	H09	ggtctacgattg	CT	tatcatgcgcac	CATACATGT	tube552	sample552
+FRANKLIN	A10	gcacgtgcttaa		ctgtgctacacc	CATACATGT	tube553	sample553
+FRANKLIN	B10	agcaagttgaac	CT	ctgtgctacacc	CATACATGT	tube554	sample554
+FRANKLIN	C10	cttctcttcgcc	AGC	ctgtgctacacc	CATACATGT	tube555	sample555
+FRANKLIN	D10	ttgcgcatcgta	TCAT	ctgtgctacacc	CATACATGT	tube556	sample556
+FRANKLIN	E10	acagtcttcgat	ACACAGATCA	ctgtgctacacc	CATACATGT	tube557	sample557
+FRANKLIN	F10	cgctaactcttc	TGACACTGATA	ctgtgctacacc	CATACATGT	tube558	sample558
+FRANKLIN	G10	gtcctatgtggt		ctgtgctacacc	CATACATGT	tube559	sample559
+FRANKLIN	H10	ggtctacgattg	CT	ctgtgctacacc	CATACATGT	tube560	sample560
+FRANKLIN	A11	gcacgtgcttaa		tgcttgttctgg	CATGTCGATA	tube561	sample561
+FRANKLIN	B11	agcaagttgaac	CT	tgcttgttctgg	CATGTCGATA	tube562	sample562
+FRANKLIN	C11	cttctcttcgcc	AGC	tgcttgttctgg	CATGTCGATA	tube563	sample563
+FRANKLIN	D11	ttgcgcatcgta	TCAT	tgcttgttctgg	CATGTCGATA	tube564	sample564
+FRANKLIN	E11	acagtcttcgat	ACACAGATCA	tgcttgttctgg	CATGTCGATA	tube565	sample565
+FRANKLIN	F11	cgctaactcttc	TGACACTGATA	tgcttgttctgg	CATGTCGATA	tube566	sample566
+FRANKLIN	G11	gtcctatgtggt		tgcttgttctgg	CATGTCGATA	tube567	sample567
+FRANKLIN	H11	ggtctacgattg	CT	tgcttgttctgg	CATGTCGATA	tube568	sample568
+FRANKLIN	A12	gcacgtgcttaa		catcagcttgga	CATGTCGATA	tube569	sample569
+FRANKLIN	B12	agcaagttgaac	CT	catcagcttgga	CATGTCGATA	tube570	sample570
+FRANKLIN	C12	cttctcttcgcc	AGC	catcagcttgga	CATGTCGATA	tube571	sample571
+FRANKLIN	D12	ttgcgcatcgta	TCAT	catcagcttgga	CATGTCGATA	tube572	sample572
+FRANKLIN	E12	acagtcttcgat	ACACAGATCA	catcagcttgga	CATGTCGATA	tube573	sample573
+FRANKLIN	F12	cgctaactcttc	TGACACTGATA	catcagcttgga	CATGTCGATA	tube574	sample574
+FRANKLIN	G12	gtcctatgtggt		catcagcttgga	CATGTCGATA	tube575	sample575
+FRANKLIN	H12	ggtctacgattg	CT	catcagcttgga	CATGTCGATA	tube576	sample576
+CANAL	A01	ctcacctataag	GACAGC	cgctgagttagc	AT	tube577	sample577
+CANAL	B01	taatcacagtgc	CACTCAT	cgctgagttagc	AT	tube578	sample578
+CANAL	C01	ttcgagaaccag	GCTCAGATCA	cgctgagttagc	AT	tube579	sample579
+CANAL	D01	taggatggattc	AGTATCTGATA	cgctgagttagc	AT	tube580	sample580
+CANAL	E01	gttccgtctcca	TATGAT	cgctgagttagc	AT	tube581	sample581
+CANAL	F01	aacgacgttcgg	CACATCT	cgctgagttagc	AT	tube582	sample582
+CANAL	G01	acatgacacatg	ACAGCACAGC	cgctgagttagc	AT	tube583	sample583
+CANAL	H01	acgtgtgtccga	TGTGTGATCAT	cgctgagttagc	AT	tube584	sample584
+CANAL	A02	ctcacctataag	GACAGC	gatctgtcgcta	AT	tube585	sample585
+CANAL	B02	taatcacagtgc	CACTCAT	gatctgtcgcta	AT	tube586	sample586
+CANAL	C02	ttcgagaaccag	GCTCAGATCA	gatctgtcgcta	AT	tube587	sample587
+CANAL	D02	taggatggattc	AGTATCTGATA	gatctgtcgcta	AT	tube588	sample588
+CANAL	E02	gttccgtctcca	TATGAT	gatctgtcgcta	AT	tube589	sample589
+CANAL	F02	aacgacgttcgg	CACATCT	gatctgtcgcta	AT	tube590	sample590
+CANAL	G02	acatgacacatg	ACAGCACAGC	gatctgtcgcta	AT	tube591	sample591
+CANAL	H02	acgtgtgtccga	TGTGTGATCAT	gatctgtcgcta	AT	tube592	sample592
+CANAL	A03	ctcacctataag	GACAGC	caggtacaaccg	ACT	tube593	sample593
+CANAL	B03	taatcacagtgc	CACTCAT	caggtacaaccg	ACT	tube594	sample594
+CANAL	C03	ttcgagaaccag	GCTCAGATCA	caggtacaaccg	ACT	tube595	sample595
+CANAL	D03	taggatggattc	AGTATCTGATA	caggtacaaccg	ACT	tube596	sample596
+CANAL	E03	gttccgtctcca	TATGAT	caggtacaaccg	ACT	tube597	sample597
+CANAL	F03	aacgacgttcgg	CACATCT	caggtacaaccg	ACT	tube598	sample598
+CANAL	G03	acatgacacatg	ACAGCACAGC	caggtacaaccg	ACT	tube599	sample599
+CANAL	H03	acgtgtgtccga	TGTGTGATCAT	caggtacaaccg	ACT	tube600	sample600
+CANAL	A04	ctcacctataag	GACAGC	tagaacaacgct	ACT	tube601	sample601
+CANAL	B04	taatcacagtgc	CACTCAT	tagaacaacgct	ACT	tube602	sample602
+CANAL	C04	ttcgagaaccag	GCTCAGATCA	tagaacaacgct	ACT	tube603	sample603
+CANAL	D04	taggatggattc	AGTATCTGATA	tagaacaacgct	ACT	tube604	sample604
+CANAL	E04	gttccgtctcca	TATGAT	tagaacaacgct	ACT	tube605	sample605
+CANAL	F04	aacgacgttcgg	CACATCT	tagaacaacgct	ACT	tube606	sample606
+CANAL	G04	acatgacacatg	ACAGCACAGC	tagaacaacgct	ACT	tube607	sample607
+CANAL	H04	acgtgtgtccga	TGTGTGATCAT	tagaacaacgct	ACT	tube608	sample608
+CANAL	A05	ctcacctataag	GACAGC	aggactcacgtg	AGCAG	tube609	sample609
+CANAL	B05	taatcacagtgc	CACTCAT	aggactcacgtg	AGCAG	tube610	sample610
+CANAL	C05	ttcgagaaccag	GCTCAGATCA	aggactcacgtg	AGCAG	tube611	sample611
+CANAL	D05	taggatggattc	AGTATCTGATA	aggactcacgtg	AGCAG	tube612	sample612
+CANAL	E05	gttccgtctcca	TATGAT	aggactcacgtg	AGCAG	tube613	sample613
+CANAL	F05	aacgacgttcgg	CACATCT	aggactcacgtg	AGCAG	tube614	sample614
+CANAL	G05	acatgacacatg	ACAGCACAGC	aggactcacgtg	AGCAG	tube615	sample615
+CANAL	H05	acgtgtgtccga	TGTGTGATCAT	aggactcacgtg	AGCAG	tube616	sample616
+CANAL	A06	ctcacctataag	GACAGC	tgcgattcttca	AGCAGT	tube617	sample617
+CANAL	B06	taatcacagtgc	CACTCAT	tgcgattcttca	AGCAGT	tube618	sample618
+CANAL	C06	ttcgagaaccag	GCTCAGATCA	tgcgattcttca	AGCAGT	tube619	sample619
+CANAL	D06	taggatggattc	AGTATCTGATA	tgcgattcttca	AGCAGT	tube620	sample620
+CANAL	E06	gttccgtctcca	TATGAT	tgcgattcttca	AGCAGT	tube621	sample621
+CANAL	F06	aacgacgttcgg	CACATCT	tgcgattcttca	AGCAGT	tube622	sample622
+CANAL	G06	acatgacacatg	ACAGCACAGC	tgcgattcttca	AGCAGT	tube623	sample623
+CANAL	H06	acgtgtgtccga	TGTGTGATCAT	tgcgattcttca	AGCAGT	tube624	sample624
+CANAL	A07	ctcacctataag	GACAGC	cgtaccggagta	GAGAT	tube625	sample625
+CANAL	B07	taatcacagtgc	CACTCAT	cgtaccggagta	GAGAT	tube626	sample626
+CANAL	C07	ttcgagaaccag	GCTCAGATCA	cgtaccggagta	GAGAT	tube627	sample627
+CANAL	D07	taggatggattc	AGTATCTGATA	cgtaccggagta	GAGAT	tube628	sample628
+CANAL	E07	gttccgtctcca	TATGAT	cgtaccggagta	GAGAT	tube629	sample629
+CANAL	F07	aacgacgttcgg	CACATCT	cgtaccggagta	GAGAT	tube630	sample630
+CANAL	G07	acatgacacatg	ACAGCACAGC	cgtaccggagta	GAGAT	tube631	sample631
+CANAL	H07	acgtgtgtccga	TGTGTGATCAT	cgtaccggagta	GAGAT	tube632	sample632
+CANAL	A08	ctcacctataag	GACAGC	ctcattgccatt	GAGAT	tube633	sample633
+CANAL	B08	taatcacagtgc	CACTCAT	ctcattgccatt	GAGAT	tube634	sample634
+CANAL	C08	ttcgagaaccag	GCTCAGATCA	ctcattgccatt	GAGAT	tube635	sample635
+CANAL	D08	taggatggattc	AGTATCTGATA	ctcattgccatt	GAGAT	tube636	sample636
+CANAL	E08	gttccgtctcca	TATGAT	ctcattgccatt	GAGAT	tube637	sample637
+CANAL	F08	aacgacgttcgg	CACATCT	ctcattgccatt	GAGAT	tube638	sample638
+CANAL	G08	acatgacacatg	ACAGCACAGC	ctcattgccatt	GAGAT	tube639	sample639
+CANAL	H08	acgtgtgtccga	TGTGTGATCAT	ctcattgccatt	GAGAT	tube640	sample640
+CANAL	A09	ctcacctataag	GACAGC	ataagccagatc	CGAGATA	tube641	sample641
+CANAL	B09	taatcacagtgc	CACTCAT	ataagccagatc	CGAGATA	tube642	sample642
+CANAL	C09	ttcgagaaccag	GCTCAGATCA	ataagccagatc	CGAGATA	tube643	sample643
+CANAL	D09	taggatggattc	AGTATCTGATA	ataagccagatc	CGAGATA	tube644	sample644
+CANAL	E09	gttccgtctcca	TATGAT	ataagccagatc	CGAGATA	tube645	sample645
+CANAL	F09	aacgacgttcgg	CACATCT	ataagccagatc	CGAGATA	tube646	sample646
+CANAL	G09	acatgacacatg	ACAGCACAGC	ataagccagatc	CGAGATA	tube647	sample647
+CANAL	H09	acgtgtgtccga	TGTGTGATCAT	ataagccagatc	CGAGATA	tube648	sample648
+CANAL	A10	ctcacctataag	GACAGC	attggaacgtac	CGAGATA	tube649	sample649
+CANAL	B10	taatcacagtgc	CACTCAT	attggaacgtac	CGAGATA	tube650	sample650
+CANAL	C10	ttcgagaaccag	GCTCAGATCA	attggaacgtac	CGAGATA	tube651	sample651
+CANAL	D10	taggatggattc	AGTATCTGATA	attggaacgtac	CGAGATA	tube652	sample652
+CANAL	E10	gttccgtctcca	TATGAT	attggaacgtac	CGAGATA	tube653	sample653
+CANAL	F10	aacgacgttcgg	CACATCT	attggaacgtac	CGAGATA	tube654	sample654
+CANAL	G10	acatgacacatg	ACAGCACAGC	attggaacgtac	CGAGATA	tube655	sample655
+CANAL	H10	acgtgtgtccga	TGTGTGATCAT	attggaacgtac	CGAGATA	tube656	sample656
+CANAL	A11	ctcacctataag	GACAGC	gtcctcctatgc	TGCTATAT	tube657	sample657
+CANAL	B11	taatcacagtgc	CACTCAT	gtcctcctatgc	TGCTATAT	tube658	sample658
+CANAL	C11	ttcgagaaccag	GCTCAGATCA	gtcctcctatgc	TGCTATAT	tube659	sample659
+CANAL	D11	taggatggattc	AGTATCTGATA	gtcctcctatgc	TGCTATAT	tube660	sample660
+CANAL	E11	gttccgtctcca	TATGAT	gtcctcctatgc	TGCTATAT	tube661	sample661
+CANAL	F11	aacgacgttcgg	CACATCT	gtcctcctatgc	TGCTATAT	tube662	sample662
+CANAL	G11	acatgacacatg	ACAGCACAGC	gtcctcctatgc	TGCTATAT	tube663	sample663
+CANAL	H11	acgtgtgtccga	TGTGTGATCAT	gtcctcctatgc	TGCTATAT	tube664	sample664
+CANAL	A12	ctcacctataag	GACAGC	acattgtggaca	TGCTATAT	tube665	sample665
+CANAL	B12	taatcacagtgc	CACTCAT	acattgtggaca	TGCTATAT	tube666	sample666
+CANAL	C12	ttcgagaaccag	GCTCAGATCA	acattgtggaca	TGCTATAT	tube667	sample667
+CANAL	D12	taggatggattc	AGTATCTGATA	acattgtggaca	TGCTATAT	tube668	sample668
+CANAL	E12	gttccgtctcca	TATGAT	acattgtggaca	TGCTATAT	tube669	sample669
+CANAL	F12	aacgacgttcgg	CACATCT	acattgtggaca	TGCTATAT	tube670	sample670
+CANAL	G12	acatgacacatg	ACAGCACAGC	acattgtggaca	TGCTATAT	tube671	sample671
+CANAL	H12	acgtgtgtccga	TGTGTGATCAT	acattgtggaca	TGCTATAT	tube672	sample672
+GRACE	A01	ctcacctataag	GACAGC	catgttggaccg	GTGCGAGTG	tube673	sample673
+GRACE	B01	taatcacagtgc	CACTCAT	catgttggaccg	GTGCGAGTG	tube674	sample674
+GRACE	C01	ttcgagaaccag	GCTCAGATCA	catgttggaccg	GTGCGAGTG	tube675	sample675
+GRACE	D01	taggatggattc	AGTATCTGATA	catgttggaccg	GTGCGAGTG	tube676	sample676
+GRACE	E01	gttccgtctcca	TATGAT	catgttggaccg	GTGCGAGTG	tube677	sample677
+GRACE	F01	aacgacgttcgg	CACATCT	catgttggaccg	GTGCGAGTG	tube678	sample678
+GRACE	G01	acatgacacatg	ACAGCACAGC	catgttggaccg	GTGCGAGTG	tube679	sample679
+GRACE	H01	acgtgtgtccga	TGTGTGATCAT	catgttggaccg	GTGCGAGTG	tube680	sample680
+GRACE	A02	ctcacctataag	GACAGC	tgacgctcaatt	GTGCGAGTG	tube681	sample681
+GRACE	B02	taatcacagtgc	CACTCAT	tgacgctcaatt	GTGCGAGTG	tube682	sample682
+GRACE	C02	ttcgagaaccag	GCTCAGATCA	tgacgctcaatt	GTGCGAGTG	tube683	sample683
+GRACE	D02	taggatggattc	AGTATCTGATA	tgacgctcaatt	GTGCGAGTG	tube684	sample684
+GRACE	E02	gttccgtctcca	TATGAT	tgacgctcaatt	GTGCGAGTG	tube685	sample685
+GRACE	F02	aacgacgttcgg	CACATCT	tgacgctcaatt	GTGCGAGTG	tube686	sample686
+GRACE	G02	acatgacacatg	ACAGCACAGC	tgacgctcaatt	GTGCGAGTG	tube687	sample687
+GRACE	H02	acgtgtgtccga	TGTGTGATCAT	tgacgctcaatt	GTGCGAGTG	tube688	sample688
+GRACE	A03	ctcacctataag	GACAGC	ggagcgctcatt	GTGTCAGAGT	tube689	sample689
+GRACE	B03	taatcacagtgc	CACTCAT	ggagcgctcatt	GTGTCAGAGT	tube690	sample690
+GRACE	C03	ttcgagaaccag	GCTCAGATCA	ggagcgctcatt	GTGTCAGAGT	tube691	sample691
+GRACE	D03	taggatggattc	AGTATCTGATA	ggagcgctcatt	GTGTCAGAGT	tube692	sample692
+GRACE	E03	gttccgtctcca	TATGAT	ggagcgctcatt	GTGTCAGAGT	tube693	sample693
+GRACE	F03	aacgacgttcgg	CACATCT	ggagcgctcatt	GTGTCAGAGT	tube694	sample694
+GRACE	G03	acatgacacatg	ACAGCACAGC	ggagcgctcatt	GTGTCAGAGT	tube695	sample695
+GRACE	H03	acgtgtgtccga	TGTGTGATCAT	ggagcgctcatt	GTGTCAGAGT	tube696	sample696
+GRACE	A04	ctcacctataag	GACAGC	aagctgcggtgt	GTGTCAGAGT	tube697	sample697
+GRACE	B04	taatcacagtgc	CACTCAT	aagctgcggtgt	GTGTCAGAGT	tube698	sample698
+GRACE	C04	ttcgagaaccag	GCTCAGATCA	aagctgcggtgt	GTGTCAGAGT	tube699	sample699
+GRACE	D04	taggatggattc	AGTATCTGATA	aagctgcggtgt	GTGTCAGAGT	tube700	sample700
+GRACE	E04	gttccgtctcca	TATGAT	aagctgcggtgt	GTGTCAGAGT	tube701	sample701
+GRACE	F04	aacgacgttcgg	CACATCT	aagctgcggtgt	GTGTCAGAGT	tube702	sample702
+GRACE	G04	acatgacacatg	ACAGCACAGC	aagctgcggtgt	GTGTCAGAGT	tube703	sample703
+GRACE	H04	acgtgtgtccga	TGTGTGATCAT	aagctgcggtgt	GTGTCAGAGT	tube704	sample704
+GRACE	A05	ctcacctataag	GACAGC	tctgcagcagat	TCAGTGT	tube705	sample705
+GRACE	B05	taatcacagtgc	CACTCAT	tctgcagcagat	TCAGTGT	tube706	sample706
+GRACE	C05	ttcgagaaccag	GCTCAGATCA	tctgcagcagat	TCAGTGT	tube707	sample707
+GRACE	D05	taggatggattc	AGTATCTGATA	tctgcagcagat	TCAGTGT	tube708	sample708
+GRACE	E05	gttccgtctcca	TATGAT	tctgcagcagat	TCAGTGT	tube709	sample709
+GRACE	F05	aacgacgttcgg	CACATCT	tctgcagcagat	TCAGTGT	tube710	sample710
+GRACE	G05	acatgacacatg	ACAGCACAGC	tctgcagcagat	TCAGTGT	tube711	sample711
+GRACE	H05	acgtgtgtccga	TGTGTGATCAT	tctgcagcagat	TCAGTGT	tube712	sample712
+GRACE	A06	ctcacctataag	GACAGC	ctagctagatgt	TCAGTGT	tube713	sample713
+GRACE	B06	taatcacagtgc	CACTCAT	ctagctagatgt	TCAGTGT	tube714	sample714
+GRACE	C06	ttcgagaaccag	GCTCAGATCA	ctagctagatgt	TCAGTGT	tube715	sample715
+GRACE	D06	taggatggattc	AGTATCTGATA	ctagctagatgt	TCAGTGT	tube716	sample716
+GRACE	E06	gttccgtctcca	TATGAT	ctagctagatgt	TCAGTGT	tube717	sample717
+GRACE	F06	aacgacgttcgg	CACATCT	ctagctagatgt	TCAGTGT	tube718	sample718
+GRACE	G06	acatgacacatg	ACAGCACAGC	ctagctagatgt	TCAGTGT	tube719	sample719
+GRACE	H06	acgtgtgtccga	TGTGTGATCAT	ctagctagatgt	TCAGTGT	tube720	sample720
+GRACE	A07	ctcacctataag	GACAGC	tcaagcactgag	TCATAGAT	tube721	sample721
+GRACE	B07	taatcacagtgc	CACTCAT	tcaagcactgag	TCATAGAT	tube722	sample722
+GRACE	C07	ttcgagaaccag	GCTCAGATCA	tcaagcactgag	TCATAGAT	tube723	sample723
+GRACE	D07	taggatggattc	AGTATCTGATA	tcaagcactgag	TCATAGAT	tube724	sample724
+GRACE	E07	gttccgtctcca	TATGAT	tcaagcactgag	TCATAGAT	tube725	sample725
+GRACE	F07	aacgacgttcgg	CACATCT	tcaagcactgag	TCATAGAT	tube726	sample726
+GRACE	G07	acatgacacatg	ACAGCACAGC	tcaagcactgag	TCATAGAT	tube727	sample727
+GRACE	H07	acgtgtgtccga	TGTGTGATCAT	tcaagcactgag	TCATAGAT	tube728	sample728
+GRACE	A08	ctcacctataag	GACAGC	gcttgcgtagtg	TCATAGAT	tube729	sample729
+GRACE	B08	taatcacagtgc	CACTCAT	gcttgcgtagtg	TCATAGAT	tube730	sample730
+GRACE	C08	ttcgagaaccag	GCTCAGATCA	gcttgcgtagtg	TCATAGAT	tube731	sample731
+GRACE	D08	taggatggattc	AGTATCTGATA	gcttgcgtagtg	TCATAGAT	tube732	sample732
+GRACE	E08	gttccgtctcca	TATGAT	gcttgcgtagtg	TCATAGAT	tube733	sample733
+GRACE	F08	aacgacgttcgg	CACATCT	gcttgcgtagtg	TCATAGAT	tube734	sample734
+GRACE	G08	acatgacacatg	ACAGCACAGC	gcttgcgtagtg	TCATAGAT	tube735	sample735
+GRACE	H08	acgtgtgtccga	TGTGTGATCAT	gcttgcgtagtg	TCATAGAT	tube736	sample736
+GRACE	A09	ctcacctataag	GACAGC	tatcatgcgcac	CATACATGT	tube737	sample737
+GRACE	B09	taatcacagtgc	CACTCAT	tatcatgcgcac	CATACATGT	tube738	sample738
+GRACE	C09	ttcgagaaccag	GCTCAGATCA	tatcatgcgcac	CATACATGT	tube739	sample739
+GRACE	D09	taggatggattc	AGTATCTGATA	tatcatgcgcac	CATACATGT	tube740	sample740
+GRACE	E09	gttccgtctcca	TATGAT	tatcatgcgcac	CATACATGT	tube741	sample741
+GRACE	F09	aacgacgttcgg	CACATCT	tatcatgcgcac	CATACATGT	tube742	sample742
+GRACE	G09	acatgacacatg	ACAGCACAGC	tatcatgcgcac	CATACATGT	tube743	sample743
+GRACE	H09	acgtgtgtccga	TGTGTGATCAT	tatcatgcgcac	CATACATGT	tube744	sample744
+GRACE	A10	ctcacctataag	GACAGC	ctgtgctacacc	CATACATGT	tube745	sample745
+GRACE	B10	taatcacagtgc	CACTCAT	ctgtgctacacc	CATACATGT	tube746	sample746
+GRACE	C10	ttcgagaaccag	GCTCAGATCA	ctgtgctacacc	CATACATGT	tube747	sample747
+GRACE	D10	taggatggattc	AGTATCTGATA	ctgtgctacacc	CATACATGT	tube748	sample748
+GRACE	E10	gttccgtctcca	TATGAT	ctgtgctacacc	CATACATGT	tube749	sample749
+GRACE	F10	aacgacgttcgg	CACATCT	ctgtgctacacc	CATACATGT	tube750	sample750
+GRACE	G10	acatgacacatg	ACAGCACAGC	ctgtgctacacc	CATACATGT	tube751	sample751
+GRACE	H10	acgtgtgtccga	TGTGTGATCAT	ctgtgctacacc	CATACATGT	tube752	sample752
+GRACE	A11	ctcacctataag	GACAGC	tgcttgttctgg	CATGTCGATA	tube753	sample753
+GRACE	B11	taatcacagtgc	CACTCAT	tgcttgttctgg	CATGTCGATA	tube754	sample754
+GRACE	C11	ttcgagaaccag	GCTCAGATCA	tgcttgttctgg	CATGTCGATA	tube755	sample755
+GRACE	D11	taggatggattc	AGTATCTGATA	tgcttgttctgg	CATGTCGATA	tube756	sample756
+GRACE	E11	gttccgtctcca	TATGAT	tgcttgttctgg	CATGTCGATA	tube757	sample757
+GRACE	F11	aacgacgttcgg	CACATCT	tgcttgttctgg	CATGTCGATA	tube758	sample758
+GRACE	G11	acatgacacatg	ACAGCACAGC	tgcttgttctgg	CATGTCGATA	tube759	sample759
+GRACE	H11	acgtgtgtccga	TGTGTGATCAT	tgcttgttctgg	CATGTCGATA	tube760	sample760
+GRACE	A12	ctcacctataag	GACAGC	catcagcttgga	CATGTCGATA	tube761	sample761
+GRACE	B12	taatcacagtgc	CACTCAT	catcagcttgga	CATGTCGATA	tube762	sample762
+GRACE	C12	ttcgagaaccag	GCTCAGATCA	catcagcttgga	CATGTCGATA	tube763	sample763
+GRACE	D12	taggatggattc	AGTATCTGATA	catcagcttgga	CATGTCGATA	tube764	sample764
+GRACE	E12	gttccgtctcca	TATGAT	catcagcttgga	CATGTCGATA	tube765	sample765
+GRACE	F12	aacgacgttcgg	CACATCT	catcagcttgga	CATGTCGATA	tube766	sample766
+GRACE	G12	acatgacacatg	ACAGCACAGC	catcagcttgga	CATGTCGATA	tube767	sample767
+GRACE	H12	acgtgtgtccga	TGTGTGATCAT	catcagcttgga	CATGTCGATA	tube768	sample768
+LEIGH	A01	accgctaatagc		gcaccatgatgt	AT	tube769	sample769
+LEIGH	B01	ccgcttctagtt	CT	gcaccatgatgt	AT	tube770	sample770
+LEIGH	C01	ggtgattacaca	AGC	gcaccatgatgt	AT	tube771	sample771
+LEIGH	D01	atgtcgtcctgg	TCAT	gcaccatgatgt	AT	tube772	sample772
+LEIGH	E01	aacacatcagcg	ACACAGATCA	gcaccatgatgt	AT	tube773	sample773
+LEIGH	F01	gtatagacgagc	TGACACTGATA	gcaccatgatgt	AT	tube774	sample774
+LEIGH	G01	gagaccggttat		gcaccatgatgt	AT	tube775	sample775
+LEIGH	H01	cgtctaatccat	CT	gcaccatgatgt	AT	tube776	sample776
+LEIGH	A02	accgctaatagc		ctgatgcttcaa	AT	tube777	sample777
+LEIGH	B02	ccgcttctagtt	CT	ctgatgcttcaa	AT	tube778	sample778
+LEIGH	C02	ggtgattacaca	AGC	ctgatgcttcaa	AT	tube779	sample779
+LEIGH	D02	atgtcgtcctgg	TCAT	ctgatgcttcaa	AT	tube780	sample780
+LEIGH	E02	aacacatcagcg	ACACAGATCA	ctgatgcttcaa	AT	tube781	sample781
+LEIGH	F02	gtatagacgagc	TGACACTGATA	ctgatgcttcaa	AT	tube782	sample782
+LEIGH	G02	gagaccggttat		ctgatgcttcaa	AT	tube783	sample783
+LEIGH	H02	cgtctaatccat	CT	ctgatgcttcaa	AT	tube784	sample784
+LEIGH	A03	accgctaatagc		tgtggtgaccaa	ACT	tube785	sample785
+LEIGH	B03	ccgcttctagtt	CT	tgtggtgaccaa	ACT	tube786	sample786
+LEIGH	C03	ggtgattacaca	AGC	tgtggtgaccaa	ACT	tube787	sample787
+LEIGH	D03	atgtcgtcctgg	TCAT	tgtggtgaccaa	ACT	tube788	sample788
+LEIGH	E03	aacacatcagcg	ACACAGATCA	tgtggtgaccaa	ACT	tube789	sample789
+LEIGH	F03	gtatagacgagc	TGACACTGATA	tgtggtgaccaa	ACT	tube790	sample790
+LEIGH	G03	gagaccggttat		tgtggtgaccaa	ACT	tube791	sample791
+LEIGH	H03	cgtctaatccat	CT	tgtggtgaccaa	ACT	tube792	sample792
+LEIGH	A04	accgctaatagc		ctaccggtagag	ACT	tube793	sample793
+LEIGH	B04	ccgcttctagtt	CT	ctaccggtagag	ACT	tube794	sample794
+LEIGH	C04	ggtgattacaca	AGC	ctaccggtagag	ACT	tube795	sample795
+LEIGH	D04	atgtcgtcctgg	TCAT	ctaccggtagag	ACT	tube796	sample796
+LEIGH	E04	aacacatcagcg	ACACAGATCA	ctaccggtagag	ACT	tube797	sample797
+LEIGH	F04	gtatagacgagc	TGACACTGATA	ctaccggtagag	ACT	tube798	sample798
+LEIGH	G04	gagaccggttat		ctaccggtagag	ACT	tube799	sample799
+LEIGH	H04	cgtctaatccat	CT	ctaccggtagag	ACT	tube800	sample800
+LEIGH	A05	accgctaatagc		gaatgcgatacg	AGCAG	tube801	sample801
+LEIGH	B05	ccgcttctagtt	CT	gaatgcgatacg	AGCAG	tube802	sample802
+LEIGH	C05	ggtgattacaca	AGC	gaatgcgatacg	AGCAG	tube803	sample803
+LEIGH	D05	atgtcgtcctgg	TCAT	gaatgcgatacg	AGCAG	tube804	sample804
+LEIGH	E05	aacacatcagcg	ACACAGATCA	gaatgcgatacg	AGCAG	tube805	sample805
+LEIGH	F05	gtatagacgagc	TGACACTGATA	gaatgcgatacg	AGCAG	tube806	sample806
+LEIGH	G05	gagaccggttat		gaatgcgatacg	AGCAG	tube807	sample807
+LEIGH	H05	cgtctaatccat	CT	gaatgcgatacg	AGCAG	tube808	sample808
+LEIGH	A06	accgctaatagc		ttccacgttagc	AGCAGT	tube809	sample809
+LEIGH	B06	ccgcttctagtt	CT	ttccacgttagc	AGCAGT	tube810	sample810
+LEIGH	C06	ggtgattacaca	AGC	ttccacgttagc	AGCAGT	tube811	sample811
+LEIGH	D06	atgtcgtcctgg	TCAT	ttccacgttagc	AGCAGT	tube812	sample812
+LEIGH	E06	aacacatcagcg	ACACAGATCA	ttccacgttagc	AGCAGT	tube813	sample813
+LEIGH	F06	gtatagacgagc	TGACACTGATA	ttccacgttagc	AGCAGT	tube814	sample814
+LEIGH	G06	gagaccggttat		ttccacgttagc	AGCAGT	tube815	sample815
+LEIGH	H06	cgtctaatccat	CT	ttccacgttagc	AGCAGT	tube816	sample816
+LEIGH	A07	accgctaatagc		gctacgagcaag	GAGAT	tube817	sample817
+LEIGH	B07	ccgcttctagtt	CT	gctacgagcaag	GAGAT	tube818	sample818
+LEIGH	C07	ggtgattacaca	AGC	gctacgagcaag	GAGAT	tube819	sample819
+LEIGH	D07	atgtcgtcctgg	TCAT	gctacgagcaag	GAGAT	tube820	sample820
+LEIGH	E07	aacacatcagcg	ACACAGATCA	gctacgagcaag	GAGAT	tube821	sample821
+LEIGH	F07	gtatagacgagc	TGACACTGATA	gctacgagcaag	GAGAT	tube822	sample822
+LEIGH	G07	gagaccggttat		gctacgagcaag	GAGAT	tube823	sample823
+LEIGH	H07	cgtctaatccat	CT	gctacgagcaag	GAGAT	tube824	sample824
+LEIGH	A08	accgctaatagc		tcttcatgttgc	GAGAT	tube825	sample825
+LEIGH	B08	ccgcttctagtt	CT	tcttcatgttgc	GAGAT	tube826	sample826
+LEIGH	C08	ggtgattacaca	AGC	tcttcatgttgc	GAGAT	tube827	sample827
+LEIGH	D08	atgtcgtcctgg	TCAT	tcttcatgttgc	GAGAT	tube828	sample828
+LEIGH	E08	aacacatcagcg	ACACAGATCA	tcttcatgttgc	GAGAT	tube829	sample829
+LEIGH	F08	gtatagacgagc	TGACACTGATA	tcttcatgttgc	GAGAT	tube830	sample830
+LEIGH	G08	gagaccggttat		tcttcatgttgc	GAGAT	tube831	sample831
+LEIGH	H08	cgtctaatccat	CT	tcttcatgttgc	GAGAT	tube832	sample832
+LEIGH	A09	accgctaatagc		gagttagatgac	CGAGATA	tube833	sample833
+LEIGH	B09	ccgcttctagtt	CT	gagttagatgac	CGAGATA	tube834	sample834
+LEIGH	C09	ggtgattacaca	AGC	gagttagatgac	CGAGATA	tube835	sample835
+LEIGH	D09	atgtcgtcctgg	TCAT	gagttagatgac	CGAGATA	tube836	sample836
+LEIGH	E09	aacacatcagcg	ACACAGATCA	gagttagatgac	CGAGATA	tube837	sample837
+LEIGH	F09	gtatagacgagc	TGACACTGATA	gagttagatgac	CGAGATA	tube838	sample838
+LEIGH	G09	gagaccggttat		gagttagatgac	CGAGATA	tube839	sample839
+LEIGH	H09	cgtctaatccat	CT	gagttagatgac	CGAGATA	tube840	sample840
+LEIGH	A10	accgctaatagc		tctgtccacatg	CGAGATA	tube841	sample841
+LEIGH	B10	ccgcttctagtt	CT	tctgtccacatg	CGAGATA	tube842	sample842
+LEIGH	C10	ggtgattacaca	AGC	tctgtccacatg	CGAGATA	tube843	sample843
+LEIGH	D10	atgtcgtcctgg	TCAT	tctgtccacatg	CGAGATA	tube844	sample844
+LEIGH	E10	aacacatcagcg	ACACAGATCA	tctgtccacatg	CGAGATA	tube845	sample845
+LEIGH	F10	gtatagacgagc	TGACACTGATA	tctgtccacatg	CGAGATA	tube846	sample846
+LEIGH	G10	gagaccggttat		tctgtccacatg	CGAGATA	tube847	sample847
+LEIGH	H10	cgtctaatccat	CT	tctgtccacatg	CGAGATA	tube848	sample848
+LEIGH	A11	accgctaatagc		actgcggattag	TGCTATAT	tube849	sample849
+LEIGH	B11	ccgcttctagtt	CT	actgcggattag	TGCTATAT	tube850	sample850
+LEIGH	C11	ggtgattacaca	AGC	actgcggattag	TGCTATAT	tube851	sample851
+LEIGH	D11	atgtcgtcctgg	TCAT	actgcggattag	TGCTATAT	tube852	sample852
+LEIGH	E11	aacacatcagcg	ACACAGATCA	actgcggattag	TGCTATAT	tube853	sample853
+LEIGH	F11	gtatagacgagc	TGACACTGATA	actgcggattag	TGCTATAT	tube854	sample854
+LEIGH	G11	gagaccggttat		actgcggattag	TGCTATAT	tube855	sample855
+LEIGH	H11	cgtctaatccat	CT	actgcggattag	TGCTATAT	tube856	sample856
+LEIGH	A12	accgctaatagc		ccgcgatcatga	TGCTATAT	tube857	sample857
+LEIGH	B12	ccgcttctagtt	CT	ccgcgatcatga	TGCTATAT	tube858	sample858
+LEIGH	C12	ggtgattacaca	AGC	ccgcgatcatga	TGCTATAT	tube859	sample859
+LEIGH	D12	atgtcgtcctgg	TCAT	ccgcgatcatga	TGCTATAT	tube860	sample860
+LEIGH	E12	aacacatcagcg	ACACAGATCA	ccgcgatcatga	TGCTATAT	tube861	sample861
+LEIGH	F12	gtatagacgagc	TGACACTGATA	ccgcgatcatga	TGCTATAT	tube862	sample862
+LEIGH	G12	gagaccggttat		ccgcgatcatga	TGCTATAT	tube863	sample863
+LEIGH	H12	cgtctaatccat	CT	ccgcgatcatga	TGCTATAT	tube864	sample864
+MONUMENT	A01	accgctaatagc		atgcatgagcta	GTGCGAGTG	tube865	sample865
+MONUMENT	B01	ccgcttctagtt	CT	atgcatgagcta	GTGCGAGTG	tube866	sample866
+MONUMENT	C01	ggtgattacaca	AGC	atgcatgagcta	GTGCGAGTG	tube867	sample867
+MONUMENT	D01	atgtcgtcctgg	TCAT	atgcatgagcta	GTGCGAGTG	tube868	sample868
+MONUMENT	E01	aacacatcagcg	ACACAGATCA	atgcatgagcta	GTGCGAGTG	tube869	sample869
+MONUMENT	F01	gtatagacgagc	TGACACTGATA	atgcatgagcta	GTGCGAGTG	tube870	sample870
+MONUMENT	G01	gagaccggttat		atgcatgagcta	GTGCGAGTG	tube871	sample871
+MONUMENT	H01	cgtctaatccat	CT	atgcatgagcta	GTGCGAGTG	tube872	sample872
+MONUMENT	A02	accgctaatagc		aagctagtgagg	GTGCGAGTG	tube873	sample873
+MONUMENT	B02	ccgcttctagtt	CT	aagctagtgagg	GTGCGAGTG	tube874	sample874
+MONUMENT	C02	ggtgattacaca	AGC	aagctagtgagg	GTGCGAGTG	tube875	sample875
+MONUMENT	D02	atgtcgtcctgg	TCAT	aagctagtgagg	GTGCGAGTG	tube876	sample876
+MONUMENT	E02	aacacatcagcg	ACACAGATCA	aagctagtgagg	GTGCGAGTG	tube877	sample877
+MONUMENT	F02	gtatagacgagc	TGACACTGATA	aagctagtgagg	GTGCGAGTG	tube878	sample878
+MONUMENT	G02	gagaccggttat		aagctagtgagg	GTGCGAGTG	tube879	sample879
+MONUMENT	H02	cgtctaatccat	CT	aagctagtgagg	GTGCGAGTG	tube880	sample880
+MONUMENT	A03	accgctaatagc		agtggatgccgt	GTGTCAGAGT	tube881	sample881
+MONUMENT	B03	ccgcttctagtt	CT	agtggatgccgt	GTGTCAGAGT	tube882	sample882
+MONUMENT	C03	ggtgattacaca	AGC	agtggatgccgt	GTGTCAGAGT	tube883	sample883
+MONUMENT	D03	atgtcgtcctgg	TCAT	agtggatgccgt	GTGTCAGAGT	tube884	sample884
+MONUMENT	E03	aacacatcagcg	ACACAGATCA	agtggatgccgt	GTGTCAGAGT	tube885	sample885
+MONUMENT	F03	gtatagacgagc	TGACACTGATA	agtggatgccgt	GTGTCAGAGT	tube886	sample886
+MONUMENT	G03	gagaccggttat		agtggatgccgt	GTGTCAGAGT	tube887	sample887
+MONUMENT	H03	cgtctaatccat	CT	agtggatgccgt	GTGTCAGAGT	tube888	sample888
+MONUMENT	A04	accgctaatagc		gtatacaaccga	GTGTCAGAGT	tube889	sample889
+MONUMENT	B04	ccgcttctagtt	CT	gtatacaaccga	GTGTCAGAGT	tube890	sample890
+MONUMENT	C04	ggtgattacaca	AGC	gtatacaaccga	GTGTCAGAGT	tube891	sample891
+MONUMENT	D04	atgtcgtcctgg	TCAT	gtatacaaccga	GTGTCAGAGT	tube892	sample892
+MONUMENT	E04	aacacatcagcg	ACACAGATCA	gtatacaaccga	GTGTCAGAGT	tube893	sample893
+MONUMENT	F04	gtatagacgagc	TGACACTGATA	gtatacaaccga	GTGTCAGAGT	tube894	sample894
+MONUMENT	G04	gagaccggttat		gtatacaaccga	GTGTCAGAGT	tube895	sample895
+MONUMENT	H04	cgtctaatccat	CT	gtatacaaccga	GTGTCAGAGT	tube896	sample896
+MONUMENT	A05	accgctaatagc		tagtctccatcc	TCAGTGT	tube897	sample897
+MONUMENT	B05	ccgcttctagtt	CT	tagtctccatcc	TCAGTGT	tube898	sample898
+MONUMENT	C05	ggtgattacaca	AGC	tagtctccatcc	TCAGTGT	tube899	sample899
+MONUMENT	D05	atgtcgtcctgg	TCAT	tagtctccatcc	TCAGTGT	tube900	sample900
+MONUMENT	E05	aacacatcagcg	ACACAGATCA	tagtctccatcc	TCAGTGT	tube901	sample901
+MONUMENT	F05	gtatagacgagc	TGACACTGATA	tagtctccatcc	TCAGTGT	tube902	sample902
+MONUMENT	G05	gagaccggttat		tagtctccatcc	TCAGTGT	tube903	sample903
+MONUMENT	H05	cgtctaatccat	CT	tagtctccatcc	TCAGTGT	tube904	sample904
+MONUMENT	A06	accgctaatagc		tgattatccacg	TCAGTGT	tube905	sample905
+MONUMENT	B06	ccgcttctagtt	CT	tgattatccacg	TCAGTGT	tube906	sample906
+MONUMENT	C06	ggtgattacaca	AGC	tgattatccacg	TCAGTGT	tube907	sample907
+MONUMENT	D06	atgtcgtcctgg	TCAT	tgattatccacg	TCAGTGT	tube908	sample908
+MONUMENT	E06	aacacatcagcg	ACACAGATCA	tgattatccacg	TCAGTGT	tube909	sample909
+MONUMENT	F06	gtatagacgagc	TGACACTGATA	tgattatccacg	TCAGTGT	tube910	sample910
+MONUMENT	G06	gagaccggttat		tgattatccacg	TCAGTGT	tube911	sample911
+MONUMENT	H06	cgtctaatccat	CT	tgattatccacg	TCAGTGT	tube912	sample912
+MONUMENT	A07	accgctaatagc		gatgagacatct	TCATAGAT	tube913	sample913
+MONUMENT	B07	ccgcttctagtt	CT	gatgagacatct	TCATAGAT	tube914	sample914
+MONUMENT	C07	ggtgattacaca	AGC	gatgagacatct	TCATAGAT	tube915	sample915
+MONUMENT	D07	atgtcgtcctgg	TCAT	gatgagacatct	TCATAGAT	tube916	sample916
+MONUMENT	E07	aacacatcagcg	ACACAGATCA	gatgagacatct	TCATAGAT	tube917	sample917
+MONUMENT	F07	gtatagacgagc	TGACACTGATA	gatgagacatct	TCATAGAT	tube918	sample918
+MONUMENT	G07	gagaccggttat		gatgagacatct	TCATAGAT	tube919	sample919
+MONUMENT	H07	cgtctaatccat	CT	gatgagacatct	TCATAGAT	tube920	sample920
+MONUMENT	A08	accgctaatagc		acctgcacactc	TCATAGAT	tube921	sample921
+MONUMENT	B08	ccgcttctagtt	CT	acctgcacactc	TCATAGAT	tube922	sample922
+MONUMENT	C08	ggtgattacaca	AGC	acctgcacactc	TCATAGAT	tube923	sample923
+MONUMENT	D08	atgtcgtcctgg	TCAT	acctgcacactc	TCATAGAT	tube924	sample924
+MONUMENT	E08	aacacatcagcg	ACACAGATCA	acctgcacactc	TCATAGAT	tube925	sample925
+MONUMENT	F08	gtatagacgagc	TGACACTGATA	acctgcacactc	TCATAGAT	tube926	sample926
+MONUMENT	G08	gagaccggttat		acctgcacactc	TCATAGAT	tube927	sample927
+MONUMENT	H08	cgtctaatccat	CT	acctgcacactc	TCATAGAT	tube928	sample928
+MONUMENT	A09	accgctaatagc		atgacgccaatt	CATACATGT	tube929	sample929
+MONUMENT	B09	ccgcttctagtt	CT	atgacgccaatt	CATACATGT	tube930	sample930
+MONUMENT	C09	ggtgattacaca	AGC	atgacgccaatt	CATACATGT	tube931	sample931
+MONUMENT	D09	atgtcgtcctgg	TCAT	atgacgccaatt	CATACATGT	tube932	sample932
+MONUMENT	E09	aacacatcagcg	ACACAGATCA	atgacgccaatt	CATACATGT	tube933	sample933
+MONUMENT	F09	gtatagacgagc	TGACACTGATA	atgacgccaatt	CATACATGT	tube934	sample934
+MONUMENT	G09	gagaccggttat		atgacgccaatt	CATACATGT	tube935	sample935
+MONUMENT	H09	cgtctaatccat	CT	atgacgccaatt	CATACATGT	tube936	sample936
+MONUMENT	A10	accgctaatagc		gtcgatcgaatc	CATACATGT	tube937	sample937
+MONUMENT	B10	ccgcttctagtt	CT	gtcgatcgaatc	CATACATGT	tube938	sample938
+MONUMENT	C10	ggtgattacaca	AGC	gtcgatcgaatc	CATACATGT	tube939	sample939
+MONUMENT	D10	atgtcgtcctgg	TCAT	gtcgatcgaatc	CATACATGT	tube940	sample940
+MONUMENT	E10	aacacatcagcg	ACACAGATCA	gtcgatcgaatc	CATACATGT	tube941	sample941
+MONUMENT	F10	gtatagacgagc	TGACACTGATA	gtcgatcgaatc	CATACATGT	tube942	sample942
+MONUMENT	G10	gagaccggttat		gtcgatcgaatc	CATACATGT	tube943	sample943
+MONUMENT	H10	cgtctaatccat	CT	gtcgatcgaatc	CATACATGT	tube944	sample944
+MONUMENT	A11	accgctaatagc		tcgtcctcggta	CATGTCGATA	tube945	sample945
+MONUMENT	B11	ccgcttctagtt	CT	tcgtcctcggta	CATGTCGATA	tube946	sample946
+MONUMENT	C11	ggtgattacaca	AGC	tcgtcctcggta	CATGTCGATA	tube947	sample947
+MONUMENT	D11	atgtcgtcctgg	TCAT	tcgtcctcggta	CATGTCGATA	tube948	sample948
+MONUMENT	E11	aacacatcagcg	ACACAGATCA	tcgtcctcggta	CATGTCGATA	tube949	sample949
+MONUMENT	F11	gtatagacgagc	TGACACTGATA	tcgtcctcggta	CATGTCGATA	tube950	sample950
+MONUMENT	G11	gagaccggttat		tcgtcctcggta	CATGTCGATA	tube951	sample951
+MONUMENT	H11	cgtctaatccat	CT	tcgtcctcggta	CATGTCGATA	tube952	sample952
+MONUMENT	A12	accgctaatagc		gagtacgtgaca	CATGTCGATA	tube953	sample953
+MONUMENT	B12	ccgcttctagtt	CT	gagtacgtgaca	CATGTCGATA	tube954	sample954
+MONUMENT	C12	ggtgattacaca	AGC	gagtacgtgaca	CATGTCGATA	tube955	sample955
+MONUMENT	D12	atgtcgtcctgg	TCAT	gagtacgtgaca	CATGTCGATA	tube956	sample956
+MONUMENT	E12	aacacatcagcg	ACACAGATCA	gagtacgtgaca	CATGTCGATA	tube957	sample957
+MONUMENT	F12	gtatagacgagc	TGACACTGATA	gagtacgtgaca	CATGTCGATA	tube958	sample958
+MONUMENT	G12	gagaccggttat		gagtacgtgaca	CATGTCGATA	tube959	sample959
+MONUMENT	H12	cgtctaatccat	CT	gagtacgtgaca	CATGTCGATA	tube960	sample960
+FUSHEE	A01	tcagctgtgttg	GACAGC	gcaccatgatgt	AT	tube961	sample961
+FUSHEE	B01	tagagtccgtcg	CACTCAT	gcaccatgatgt	AT	tube962	sample962
+FUSHEE	C01	taagagtgacgc	GCTCAGATCA	gcaccatgatgt	AT	tube963	sample963
+FUSHEE	D01	ctgtgaagtacc	AGTATCTGATA	gcaccatgatgt	AT	tube964	sample964
+FUSHEE	E01	gacttgcctgac	TATGAT	gcaccatgatgt	AT	tube965	sample965
+FUSHEE	F01	aatcgcttgcta	CACATCT	gcaccatgatgt	AT	tube966	sample966
+FUSHEE	G01	gctaaccaatga	ACAGCACAGC	gcaccatgatgt	AT	tube967	sample967
+FUSHEE	H01	cgagacgactat	TGTGTGATCAT	gcaccatgatgt	AT	tube968	sample968
+FUSHEE	A02	tcagctgtgttg	GACAGC	ctgatgcttcaa	AT	tube969	sample969
+FUSHEE	B02	tagagtccgtcg	CACTCAT	ctgatgcttcaa	AT	tube970	sample970
+FUSHEE	C02	taagagtgacgc	GCTCAGATCA	ctgatgcttcaa	AT	tube971	sample971
+FUSHEE	D02	ctgtgaagtacc	AGTATCTGATA	ctgatgcttcaa	AT	tube972	sample972
+FUSHEE	E02	gacttgcctgac	TATGAT	ctgatgcttcaa	AT	tube973	sample973
+FUSHEE	F02	aatcgcttgcta	CACATCT	ctgatgcttcaa	AT	tube974	sample974

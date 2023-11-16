@@ -18,8 +18,8 @@ $ pip install .
 # Usage
 
 ```
-$ demux_read_index.py -h
-usage: demux_read_index.py [-h] -ss SS -r1 R1 -r2 R2 [-mm MM] [-fmmc] [-outdir OUTDIR]
+$ demux_read_index -h
+usage: demux_read_index [-h] -ss SS -r1 R1 -r2 R2 [-mm MM] [-fmmc] [-outdir OUTDIR]
 
 This script performs demultiplexing of MiSeq paired-end reads
 
@@ -57,7 +57,7 @@ options:
       - No eta provided, will print '.' for every 10,000 reads
 3. Check <out_dir>/demux_stats.txt for demuxed read counts. Note
       - Recognized barcodes in unrecognized combinations are put in Undetermined_<bc1>_<bc2>...
-      - These are combinatorial barcodes; expect to see all possible combinations of forward and reverse barcodes, unrecognized combinations should have a small fraction of reads.
+      - For combinatorial barcodes: expect to see all possible combinations of forward and reverse barcodes, unrecognized combinations should have a small fraction of reads.
   
 # TODO
 - Automate tests
