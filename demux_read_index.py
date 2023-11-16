@@ -1,29 +1,7 @@
 #!/usr/bin/env python
 
-################################################################
-##################         Description        ##################
-################################################################
-# Author: Hardik I. Parikh
-# Date: 13 Nov 2015
-# Demultiplexing MiSeq Runs
-#  
-# This script performs demultiplexing of MiSeq paired-end reads
-#
-# Input parameters - 
-# 
-# SampleSheet - Tab-delimited file 
-# 		Plate	Well	Index1	Spacer	Index2	LabID	SampleName
-# 
-# Index fastq file - I1.fastq.gz 
-# 		Index1 file from MiSeq, actually contains index2
-#		sequences, but read first by MiSeq, so labelled
-#		index1
-#
-# Forward Reads fastq file - R1.fastq.gz (All forward reads)
-# 
-# Reverse Reads fastq file - R2.fastq.gz (All reverse reads)
-# 
-################################################################
+# Original author - Hardik I. Parikh -  13 Nov 2015
+# Modified/refacted for double read indexing - 2023 - Chris Oldfield
 
 import sys
 import os
