@@ -65,11 +65,17 @@ def load_sample_sheet(sample_sheet_name, outdir, validate_header=True):
 
     samples = []
     for i, line in enumerate(fh):
-        fields = line.strip().split('\t')[:len(sample_sheet_header)]
+        fields = line.strip('\n\r').split('\t')[:len(sample_sheet_header)]
         if len(fields) != len(sample_sheet_header):
-            raise ValueError("Bad number of fields in sample sheet on line {}: got {}".format(i+1, len(fields)))
+            raise ValueError("Bad number of fields in sample sheet on line {}: got {}".format(i+2, len(fields)))
         plate, well, f_seq, f_space, r_seq, r_space, lab_id, sample_id = fields
         f_seq, f_space, r_seq, r_space = map(str.upper, (f_seq, f_space, r_seq, r_space))
+        if not f_seq:
+            exit(f"Missing forward index on line {i+2}, exitting...")
+        if not r_seq:
+            exit(f"Missing reverse index on line {i+2}, exitting...")
+        if not sample_id:
+            print(f"Missing sample id on line {i+2}", file=sys.stderr)
         samples.append(create_sample(
             plate, well,
             create_idx(f_seq, f_space),
