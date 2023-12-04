@@ -8,7 +8,7 @@ Install provided conda environment, otherwise requires
 
 # Installation example
 ```
-$ git clone git@github.com:cjowf/demux_read_index.git
+$ git clone https://github.com/cjowf/demux_read_index.git
 $ cd demux_read_index
 $ conda create -n demux_read_index -f environment.yaml
 $ conda activate demux_read_index
