@@ -10,7 +10,7 @@ Install provided conda environment, otherwise requires
 ```
 $ git clone https://github.com/cjowf/demux_read_index.git
 $ cd demux_read_index
-$ conda create -n demux_read_index -f environment.yaml
+$ conda env create -f environment.yaml
 $ conda activate demux_read_index
 $ pip install .
 ```
