@@ -22,8 +22,9 @@ def add_mismatches(seq, n):
 @click.option("--insert_length", type=int, default=300)
 @click.option("--read_length", type=int, default=150)
 @click.option("--bc_mismatches", type=int, default=0)
-def main(sample_sheet, r1_file, r2_file, reads_per_sample, insert_length, read_length, bc_mismatches):
-    samples = load_sample_sheet(sample_sheet.name, ".")
+@click.option("--noi2", is_flag=True, default=False)
+def main(sample_sheet, r1_file, r2_file, reads_per_sample, insert_length, read_length, bc_mismatches, noi2):
+    samples = load_sample_sheet(sample_sheet.name, ".", skip_index2=noi2)
     gen_reads = [ s for s in samples for i in range(reads_per_sample)]
     random.shuffle(gen_reads)
     insert = "".join(random.choices(list("ACGT"), k=insert_length))
@@ -32,7 +33,7 @@ def main(sample_sheet, r1_file, r2_file, reads_per_sample, insert_length, read_l
 
     for i, s in enumerate(gen_reads):
         r1 = (add_mismatches(s.f_idx.seq, bc_mismatches) + s.f_idx.spacer + insert)[:read_length]
-        r2 = (add_mismatches(s.r_idx.seq, bc_mismatches) + s.r_idx.spacer + insert_rc)[:read_length]
+        r2 = ( ( (add_mismatches(s.r_idx.seq, bc_mismatches) + s.r_idx.spacer) if not noi2 else "") + insert_rc)[:read_length]
         r1_file.write(f"@{i}:{s.sample_id}\n{r1}\n+{i}:{s.sample_id}\n{qscores}\n")
         r2_file.write(f"@{i}:{s.sample_id}\n{r2}\n+{i}:{s.sample_id}\n{qscores}\n")
 

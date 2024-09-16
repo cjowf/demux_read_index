@@ -33,13 +33,13 @@ def create_idx(seq, spacer):
 UNK_IDX = create_idx("", "")
 
 Sample = namedtuple("Sample", "plate well f_idx r_idx lab_id sample_id f_path r_path")
-def create_sample(plate, well, f_idx, r_idx, lab_id, sample_id, outdir):
-    filename = "_".join([sample_id, f_idx.seq, r_idx.seq])
+def create_sample(plate, well, f_idx, r_idx, lab_id, sample_id, outdir, skip_index2=False):
+    filename = "_".join([sample_id, f_idx.seq, r_idx.seq] if not skip_index2 else [sample_id, f_idx.seq])
     #filename = "_".join([lab_id, f_idx.seq, r_idx.seq])
     return Sample(
         plate, well,
         f_idx,
-        r_idx,
+        r_idx if not skip_index2 else None,
         lab_id,
         sample_id,
         os.path.join(outdir,filename + "_R1.fastq"),
@@ -47,8 +47,12 @@ def create_sample(plate, well, f_idx, r_idx, lab_id, sample_id, outdir):
     )
 
 
-def load_sample_sheet(sample_sheet_name, outdir, validate_header=True):
+def load_sample_sheet(sample_sheet_name, outdir, validate_header=True, skip_index2=False):
     fh = open(sample_sheet_name)
+
+    if skip_index2:
+        sample_sheet_header.remove('Index2')
+        sample_sheet_header.remove('Spacer2')
 
     header = fh.readline()
     if validate_header:
@@ -68,30 +72,36 @@ def load_sample_sheet(sample_sheet_name, outdir, validate_header=True):
         fields = line.strip('\n\r').split('\t')[:len(sample_sheet_header)]
         if len(fields) != len(sample_sheet_header):
             raise ValueError("Bad number of fields in sample sheet on line {}: got {}".format(i+2, len(fields)))
-        plate, well, f_seq, f_space, r_seq, r_space, lab_id, sample_id = fields
-        f_seq, f_space, r_seq, r_space = map(str.upper, (f_seq, f_space, r_seq, r_space))
+        if not skip_index2:
+            plate, well, f_seq, f_space, r_seq, r_space, lab_id, sample_id = fields
+            f_seq, f_space, r_seq, r_space = map(str.upper, (f_seq, f_space, r_seq, r_space))
+        else:
+            plate, well, f_seq, f_space, lab_id, sample_id = fields
+            f_seq, f_space = map(str.upper, (f_seq, f_space))
+            r_seq = r_space = ""
         if not f_seq:
             exit(f"Missing forward index on line {i+2}, exitting...")
-        if not r_seq:
+        if not r_seq and not skip_index2:
             exit(f"Missing reverse index on line {i+2}, exitting...")
         if not sample_id:
             print(f"Missing sample id on line {i+2}", file=sys.stderr)
         samples.append(create_sample(
             plate, well,
             create_idx(f_seq, f_space),
-            create_idx(r_seq, r_space),
+            create_idx(r_seq, r_space) if not skip_index2 else None,
             lab_id,
             sample_id,
-            outdir
+            outdir,
+            skip_index2
         ))
     return samples
 
-def validate_samples(samples):
-    sample_idxs = [(s.f_idx.seq, s.r_idx.seq) for s in samples]
+def validate_samples(samples, skip_index2=False):
+    sample_idxs = [(s.f_idx.seq, s.r_idx.seq if not skip_index2 else None) for s in samples]
     if check_duplicates(sample_idxs):
         raise ValueError(
             "Duplicate sample indexes found: " + ", ".join(
-                map("-".join, check_duplicates(sample_idxs))
+                map("-".join, map(lambda x: map(str, x), check_duplicates(sample_idxs)))
             )
         )
 
@@ -150,6 +160,7 @@ def main():
     parser.add_argument('-r2', type=str, help='R2 fastq file', required=True)
     parser.add_argument('-mm', type=int, help='Allow n barcode mismatches, default n=1', default=1)
     parser.add_argument('-fmmc', action='store_true', help='Filter colliding barcode mismatches, otherwise disallow collisions')
+    parser.add_argument('-noi2', action='store_true', help='Do not demux on read 2, ignore index 2/spacer 2 in sample sheet', default=False)
     parser.add_argument('-outdir', type=str, help='Output path, default current directory', default='.')
     args = parser.parse_args()
 
@@ -160,21 +171,27 @@ def main():
         if e.errno != errno.EEXIST:
             raise
 
-    samples = load_sample_sheet(args.ss, args.outdir)
-    validate_samples(samples)
+    samples = load_sample_sheet(args.ss, args.outdir, skip_index2=args.noi2)
+    validate_samples(samples, args.noi2)
     sample_map = {(s.f_idx, s.r_idx): s for s in samples}
     sample_info = {s: dict(SAMPLE_INFO) for s in samples}
 
     f_idx_map = {s.f_idx.seq.encode(): s.f_idx for s in samples}
-    r_idx_map = {s.r_idx.seq.encode(): s.r_idx for s in samples}
+    if not args.noi2:
+        r_idx_map = {s.r_idx.seq.encode(): s.r_idx for s in samples}
 
     # Index lengths
     forIndexLen = validate_idxs([s.f_idx for s in samples])
-    revIndexLen = validate_idxs([s.r_idx for s in samples])
+    if not args.noi2:
+        revIndexLen = validate_idxs([s.r_idx for s in samples])
+    else:
+        revIndexLen = 0
+        r_idx_map = {b'' : None}
 
     for i in range(args.mm):
         add_bc_mismatches(f_idx_map, args.fmmc)
-        add_bc_mismatches(r_idx_map, args.fmmc)
+        if not args.noi2:
+            add_bc_mismatches(r_idx_map, args.fmmc)
     print(f"Forward bc map size {len(f_idx_map)}")
     print(f"Reverse bc map size {len(r_idx_map)}")
 
@@ -191,6 +208,40 @@ def main():
 
     r1fh = iter(HTSeq.FastqReader(args.r1))
     r2fh = iter(HTSeq.FastqReader(args.r2))
+
+    # formater for read descriptions and output construction
+    if not args.noi2:
+        def rd_formatter(name, f, r, sid):
+            return ":".join([name, f.seq, r.seq, sid])
+        def create_out(r1, f_idx, r2, r_idx):
+            return (
+                HTSeq.SequenceWithQualities(
+                    r1.seq[sample.f_idx.trim:], 
+                    forReadDesc, 
+                    r1.qualstr[sample.f_idx.trim:]
+                ),
+                HTSeq.SequenceWithQualities(
+                    r2.seq[sample.r_idx.trim:], 
+                    revReadDesc, 
+                    r2.qualstr[sample.r_idx.trim:]
+                )
+            )
+    else:
+        def rd_formatter(name, f, r, sid):
+            return ":".join([name, f.seq, sid])
+        def create_out(r1, f_idx, r2, r_idx):
+            return (
+                HTSeq.SequenceWithQualities(
+                    r1.seq[sample.f_idx.trim:], 
+                    forReadDesc, 
+                    r1.qualstr[sample.f_idx.trim:]
+                ),
+                HTSeq.SequenceWithQualities(
+                    r2.seq, 
+                    revReadDesc, 
+                    r2.qualstr
+                )
+            )
 
     #for i1,r1,r2 in zip(HTSeq.FastqReader(args.i1),HTSeq.FastqReader(args.r1),HTSeq.FastqReader(args.r2)):
     for r1, r2 in zip(r1fh, r2fh):
@@ -213,28 +264,19 @@ def main():
             f_idx = r_idx = UNK_IDX
         elif sample == UNK_SAMPLE:
             #known idxs, unknown samples, place in new sample
-            sample =create_sample(sample.plate, sample.well, f_idx, r_idx, sample.lab_id, sample.sample_id, args.outdir)
+            sample = create_sample(sample.plate, sample.well, f_idx, r_idx if not args.noi2 else None, sample.lab_id, sample.sample_id, args.outdir)
             sample_map[(f_idx, r_idx)] = sample
             samples.append(sample)
             sample_info[sample] = dict(SAMPLE_INFO)
         sample_info[sample]['numReads'] += 1
 
         # New read descriptions 
-        forReadDesc = ":".join([r1.name, f_idx.seq, r_idx.seq, sample.sample_id])
-        revReadDesc = ":".join([r2.name, f_idx.seq, r_idx.seq, sample.sample_id])
+        forReadDesc = rd_formatter(r1.name, f_idx, r_idx, sample.sample_id)
+        revReadDesc = rd_formatter(r2.name, f_idx, r_idx, sample.sample_id)
 
         # Create new HTSeq Objects for forward, reverse reads
         #remove forward index + spacer for r1 read
-        newForRead = HTSeq.SequenceWithQualities(
-            r1.seq[sample.f_idx.trim:], 
-            forReadDesc, 
-            r1.qualstr[sample.f_idx.trim:]
-        )
-        newRevRead = HTSeq.SequenceWithQualities(
-            r2.seq[sample.r_idx.trim:], 
-            revReadDesc, 
-            r2.qualstr[sample.r_idx.trim:]
-        )
+        newForRead, newRevRead = create_out(r1, f_idx, r2, r_idx) 
 
         # Store 250,000 seq objects in sampleR1, sampleR2 dict
         sample_reads_dict[sample].append((newForRead, newRevRead))
